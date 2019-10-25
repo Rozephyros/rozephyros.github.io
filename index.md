@@ -1,11 +1,15 @@
-### Rozephyros
+# Rozephyros
 
 Это место - хранилище тайных знаний, философских размышлений и математических абстракций.
 
-## Header 2
+## Theology
 
-# Header 2
+Numerical Glory
 
-### Розефирос
+# Розефирос
 
 This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions.
+
+## Теология
+
+Числовая Слава
