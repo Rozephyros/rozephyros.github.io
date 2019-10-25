@@ -4,7 +4,7 @@
 
 ## Theology
 
-Numerical Glory
+* Numerical Glory
 
 # Розефирос
 
@@ -12,4 +12,4 @@ This place is a repository of secret knowledge, philosophical thoughts and mathe
 
 ## Теология
 
-Числовая Слава
+* Числовая Слава
