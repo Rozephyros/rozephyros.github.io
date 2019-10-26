@@ -3,4 +3,4 @@ This place is a repository of secret knowledge, philosophical thoughts and mathe
 ## 🕯️ Теология
 🧮 [Числовая Слава](numericalglory.md)
 ***
-### 🗽 [English Version](index.md)
+##### 🗽 [English Version](index.md)
