@@ -4,5 +4,5 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md)           🗽 [English Version](numericalglory.md) 
+##### | ↩️ [Назад](index-2.md)  | 🗽 [English Version](numericalglory.md) |
 
