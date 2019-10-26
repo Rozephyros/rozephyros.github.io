@@ -3,4 +3,4 @@ Of course, confidence here requires a huge leap of faith and a bit of insanity. 
 
 ***
 
-| ↩️ [Back](index.md)  | 🌻 [Русская Версия](numericalglory-2.md) |
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](numericalglory-2.md)
