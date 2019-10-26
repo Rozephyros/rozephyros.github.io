@@ -3,7 +3,7 @@
 ## 🕯️ Theology
 🧮 [Numerical Glory](numericalglory.md)
 ***
-### 🌻 [Русская Версия](index-2.md)
+##### 🌻 [Русская Версия](index-2.md)
 
 
 
