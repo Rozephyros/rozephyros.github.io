@@ -1,4 +1,4 @@
-# 🥀 Introduction 🥀
+# 🧮 Numerical Glory 🧮
 Confidence requires a leap of faith and inspirational madness. Imagine that we are talking about God, which mortals can know. What can we say about the Creator of our universe? Physical reality has 10⁴³⁹⁷ possible states. The number, of course, is unimaginably huge, but still not an indicator of infinite power and absolute imagination.
 
 Now, imagine that instead of God we are talking about ourselves. What is the universe that man can create? This question is easy to answer. Throughout your life, you make many decisions. Each of your decisions is a binary choice in favor of black or white, good or evil, Coca-Cola or Pepsi. Each choice doubles the number of states in your possible universe. How many states will accumulate in your Universe, from birth to your death?
