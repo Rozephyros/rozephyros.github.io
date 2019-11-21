@@ -7,6 +7,7 @@
 🧮 [Numerical Glory](numericalglory.md)
 ## 💭 Thoughts
 🕵️ [Confidential Information](confidential.md)
+🕊️ [Complete Liberation](liberation.md)
 
 ***
 
