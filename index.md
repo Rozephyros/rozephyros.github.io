@@ -1,5 +1,6 @@
 # 🌹 Rozephyros 🌹
 <p align="justify">This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions. Every link is hidden the key to the incomprehensible reality.</p>
+
 ## 📚 General
 🥀 [Introduction](introduction.md)
 ## 🕯️ Theology
