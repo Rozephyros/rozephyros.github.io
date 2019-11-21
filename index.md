@@ -4,6 +4,8 @@ This place is a repository of secret knowledge, philosophical thoughts and mathe
 🥀 [Introduction](introduction.md)
 ## 🕯️ Theology
 🧮 [Numerical Glory](numericalglory.md)
+## 💭 Thoughts
+🕵️ [Confidential Information](confidential.md)
 
 ***
 
