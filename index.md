@@ -3,6 +3,8 @@
 
 ## 📚 General
 🥀 [Introduction](introduction.md)
+## 🔮 Mysticism
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🕯️ Theology
 🧮 [Numerical Glory](numericalglory.md)
 ## 💭 Thoughts
