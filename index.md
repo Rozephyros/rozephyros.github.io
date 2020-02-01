@@ -4,6 +4,8 @@
 ## 📚 General
 🥀 [Introduction](introduction.md)
 ## 🔮 Mysticism
+🔮 [Idealistic Spirituality](mirage-2.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🕯️ Theology
 🧮 [Numerical Glory](numericalglory.md)
