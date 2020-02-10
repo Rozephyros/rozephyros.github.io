@@ -21,7 +21,7 @@
 
 <p align="left">But if you want to live,</p>
 
-<p align="left">You will have to forget about such vivid dream."</p>
+<p align="left">You will have to forget about such a vivid dream."</p>
 
 <p align="right">Waking up in a nightmare, the mortal world dozed off.</p>
   
