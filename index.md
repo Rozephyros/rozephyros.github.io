@@ -7,6 +7,8 @@
 🔮 [Idealistic Spirituality](mirage-2.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 📝 Poetry
+☄️ [Convergence](convergence.md)
 ## 🕯️ Theology
 🧮 [Numerical Glory](numericalglory.md)
 ## 💭 Thoughts
