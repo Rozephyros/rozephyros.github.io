@@ -66,5 +66,5 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](convergence.md.md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](convergence.md)
 
