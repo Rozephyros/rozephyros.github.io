@@ -12,6 +12,8 @@
 ## 🕯️ Theology
 🧮 [Numerical Glory](numericalglory.md)
 ## 💭 Thoughts
+👊[「 Shape of Force 」](shape-of-force.md)
+
 🕵️ [Confidential Information](confidential.md)
 
 🕊️ [Complete Liberation](liberation.md)
