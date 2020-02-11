@@ -12,7 +12,7 @@
 ## 🕯️ Theology
 🧮 [Numerical Glory](numericalglory.md)
 ## 💭 Thoughts
-👊[「 Shape of Force 」](shape-of-force.md)
+👊[「 Shape of Force 」](shape_of_force.md)
 
 🕵️ [Confidential Information](confidential.md)
 
