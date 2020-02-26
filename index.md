@@ -4,7 +4,7 @@
 ## 📚 General
 🥀 [Introduction](introduction.md)
 ## 🔮 Mysticism
-🔮 [Idealistic Spirituality](mirage-2.md)
+🔮 [Idealistic Spirituality](mirage.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 📝 Poetry
