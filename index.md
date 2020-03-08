@@ -8,7 +8,7 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗳️ Politics
-🦠 [Manifesto of Cellularism](celluralism.md)
+🦠 [Manifesto of Cellularism](cellularism.md)
 ## 📝 Poetry
 ☄️ [Convergence](convergence.md)
 ## 🕯️ Theology
