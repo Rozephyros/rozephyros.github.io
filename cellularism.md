@@ -25,7 +25,17 @@
 
 <p align="justify">Each person will be able to choose for themselves the means of protection against violence and deception, if this choice does not violate the interests of other members of the cell. Each member of the community will have independence from the community, but the community itself will have an impact on its members, right down to the link. The community will be able to buy and sell shares, receive dividends from them and participate in the management of firms and enterprises. Each business will either fully belong to a cell, or be created by several cells on a joint stock basis. Such corporations will be created only in accordance with strategic plans.</p>
 
-> 🏡 Cultural Revival 🏡
+> 🏡 Cellular Economics 🏡
+
+<p align="justify">All community members receive the best education, elective training will be offered to all students of educational institutions. They will have many opportunities for self-employment, which will become the basis for future commercial enterprises. As a rule, employees of such enterprises will enter into one cell and will be engaged in the production of products mainly for domestic consumption. Community projects will provide both jobs and a market for local goods and services. Products created outside the community will be available in special regulated markets.</p>
+
+<p align="justify">If you look at the community from a macro level, it will become clear that, compared to a family, a social cell can organize much more internal work. Products and services available to the community are produced in small quantities, but with a large assortment that meets the true need. From this point of view, it becomes obvious how a wide field for creative activity arises. The results of labor will be natural, they will no longer abstract from the social context.</p>
+
+<p align="justify">At the micro-level, consumers and producers will be connected by the economic and social structures of society as a whole. Economics will become part of the traditional life cycle and will no longer be an academic abstraction. The huge potential of the natural economy will allow anyone who has lost their jobs due to the crisis to join reliable manufacturing sectors. Unemployment will cease to be a problem for society. A system of social solidarity will appear, which will give work to everyone who can offer the community their skills, their thoughts, and their efforts.</p>
+
+<p align="justify">True democracy is not the power of people, but the power acting in the interests of people. The decentralized microstructure will be supported by objective laws of the macrostructure, which will provide equal opportunities for the prosperity of both the national and local sectors of the economy. Only specially trained people with the necessary knowledge and skills will be entitled to government intervention in the economy. To this end, each level of government activity will change the characteristic functions from political to administrative. A vain struggle for the votes of voters will be a thing of the past. The dominance of demagogues who want cheap political power and impose their ideas will end.</p>
+
+> ⚖️ Political Culture ⚖️
 
 ***
 
