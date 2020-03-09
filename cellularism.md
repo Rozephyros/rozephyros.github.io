@@ -7,7 +7,7 @@
 
 <p align="justify">Another significant drawback of the Soviet system was the arms race. The orientation of the economy to war has led to the backwardness of other sectors and the shortage of important consumer goods. Another obvious flaw was the obsession of leaders with political power. Endless intrigues and fear of overthrow provided them with a throne on blood and bones. Despite the imperfection of the Soviet system, it is impossible to deny its role in the history of mankind. We believe in the need to learn from both mistakes and successes.</p>
 
-> 👑 Society Structure 👑
+> 👑 Social Structure 👑
 <p align="justify">In cellularism, the structure of society forms five cellular levels. The microcellular level is families and other households. The middle cellular level is the local community. The central cellular level is the basic unit of cellulism. The macrocellular level is state structures. The global cellular level is humanity as a whole. The cell pyramid scheme will benefit all citizens. The cell pyramid scheme will benefit all citizens. Having become a full-fledged and truly living organism, society will begin to make decisions harmoniously and rationally. The future belongs to a multicellular organism! Compared to the fractal confederation of communities, modern states are just overgrown single-celled formations.</p>
 
 <p align="justify">A person will no longer inherit the degenerative features of the state and will no longer believe in the continuity of violence. Political power will be synthesized at a basic cellular level through rational thinking, and its carriers will be filtered by selection based on the principles of selflessness and mutual continuity. Microlevels form pluralistic ideas, while macrolevels embody a community of ideals. The central cells of society become a guarantee that all causes and effects are reflected fractally and can act within their borders as soon as they consider it appropriate.</p>
@@ -21,6 +21,11 @@
 
 <p align="justify">Under the conditions of cellularism, communities will not compete with each other for space. Instead, people can strive for peace and prosperity, and the land will be freely available to all who need it. Ownership of resources becomes dynamic and submits to the natural needs of community development. At the time of its formation, the community receives land from the state for free. In the event of a cell collapse, the state takes its resources back without any reward. The resource does not belong to any particular person, it receives a sacred status and is used in accordance with the principles of justice.</p>
 
+<p align="justify">In the field of agriculture, cellularism is of the opinion that the community should do everything possible to ensure a productive culture. Land transfer between communities is permitted only in exceptional cases. Unauthorized persons can obtain the right to travel as guests of the community if they have honest intentions and are not noticed in criminal activity. The relationship between community members and the cell of society should be built taking into account the balance of interests of both parties. Cooperation between a person and a cell can be limited only by an objective conflict between depletion of resources and individual consumption.</p>
+
+<p align="justify">Each person will be able to choose for themselves the means of protection against violence and deception, if this choice does not violate the interests of other members of the cell. Each member of the community will have independence from the community, but the community itself will have an impact on its members, right down to the link. The community will be able to buy and sell shares, receive dividends from them and participate in the management of firms and enterprises. Each business will either fully belong to a cell, or be created by several cells on a joint stock basis. Such corporations will be created only in accordance with strategic plans.</p>
+
+> 🏡 Cultural Revival 🏡
 ***
 
 ##### ↩️ [Back](index.md) | 🌻 [Русская Версия](cellularism-2.md)
