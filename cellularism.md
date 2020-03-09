@@ -26,6 +26,7 @@
 <p align="justify">Each person will be able to choose for themselves the means of protection against violence and deception, if this choice does not violate the interests of other members of the cell. Each member of the community will have independence from the community, but the community itself will have an impact on its members, right down to the link. The community will be able to buy and sell shares, receive dividends from them and participate in the management of firms and enterprises. Each business will either fully belong to a cell, or be created by several cells on a joint stock basis. Such corporations will be created only in accordance with strategic plans.</p>
 
 > 🏡 Cultural Revival 🏡
+
 ***
 
 ##### ↩️ [Back](index.md) | 🌻 [Русская Версия](cellularism-2.md)
