@@ -37,6 +37,10 @@
 
 > ⚖️ Political Culture ⚖️
 
+<p align="justify">The culture of mankind will be transformed by wealth and diversity. Each competent citizen will receive the right to participate in the government of his country, to be elected to leadership positions. Everyone will be free to give recommendations to suitable candidates and participate in various political associations. As part of the democratic process, everyone will have the opportunity to exercise their rights without fear of threats or fraud. If necessary, the citizen will be protected by the state from any violence or coercion in the exercise of his own political will.</p>
+
+<p align="justify">We emphasize the need to respect the political, economic and cultural traditions of all peoples and states. This means that in all decision-making processes, governments and citizens will be guided by the principle of mutual respect and the supremacy of human rights in territories under the jurisdiction of the cellarists. Now it is extremely difficult to exercise state power in states with a huge territory. It is extremely difficult to carry out any changes and reforms due to the peculiarities of the culture of individual peoples. Indeed, to preserve the independence of the community over a vast territory, it is necessary to respect the right to self-determination of peoples, ethnic groups and minority groups. Therefore, it is necessary to create a constitutional structure, including a representative element, always open for dialogue.</p> 
+
 ***
 
 ##### ↩️ [Back](index.md) | 🌻 [Русская Версия](cellularism-2.md)
