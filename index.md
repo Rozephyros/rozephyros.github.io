@@ -20,7 +20,7 @@
 
 🕊️ [Complete Liberation](liberation.md)
 ## ✍️ Writing
-🏛️ [Step By Step](step_by_step.md)
+🏛️ [「 Step By Step 」](step_by_step.md)
 
 ***
 
