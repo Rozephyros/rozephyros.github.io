@@ -1,4 +1,4 @@
-# 🦸 Vengeance × Resurrection 🦸
+# 🦸 True Heroism 🦸
 <p align="justify">So what happened that the modern world suddenly began to demand radical changes? This is one of those questions that will need to be answered to understand what it means to be human.
 
 
