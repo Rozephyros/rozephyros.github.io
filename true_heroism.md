@@ -1,5 +1,5 @@
 # 🦸 Vengeance × Resurrection 🦸
-<p align="justify">So what happened that the modern world suddenly began to demand radical changes?
+<p align="justify">So what happened that the modern world suddenly began to demand radical changes? This is one of those questions that will need to be answered to understand what it means to be human.
 
 
 <p align="justify">Think about what is specific. Something that exists. Something surely definite, accurate and substantive, material. What then is not specific? Something surely abstract, notional and nebulous. In other words, imaginary and symbolic entities.</p> 
