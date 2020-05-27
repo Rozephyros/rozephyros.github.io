@@ -1,4 +1,4 @@
-# 🦸 True Heroism 🦸
+# 🦸 Radical Change 🦸
 <p align="justify">So what happened that the modern world suddenly began to demand radical changes? This is one of those questions that will need to be answered to understand what it means to be human. Set any claims, and for each subject from your list in the court of history there is a precedent. This is true for the entire human struggle, from the battle for equality to the pursuit of freedom. The same conflicts that were ten years ago. Hundreds of years ago. Thousands of years ago.</p>
 
 <p align="justify">You are not the first to notice them. You are not even the first who wants to change the world and is ready to pay even the price of eternal oblivion. What do you have that others would not have? Willingness to sacrifice yourself? Ha! Empty words. If a personal sacrifice were enough, suicide would solve all the problems. Those who pay for such sacrifices do not have sufficient knowledge. They have neither the strength nor the courage to be free. Only those who are capable of a feat, that others do not even dare to think about, become heroes.</p> 
