@@ -19,6 +19,9 @@
 🕵️ [Confidential Information](confidential.md)
 
 🕊️ [Complete Liberation](liberation.md)
+
+
+🦸 [Radical Change](true_heroism.md)
 ## ✍️ Writing
 🏛️ [「 Step By Step 」](step_by_step.md)
 
