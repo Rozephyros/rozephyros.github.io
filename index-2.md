@@ -12,6 +12,7 @@
 ## 📝 Поэзия
 ☄️ [Схождение](convergence-2.md)
 ## 🕯️ Теология
+🔮 [Непостижимость](incomprehensibility-2.md)
 🧮 [Числовая Слава](numericalglory-2.md)
 ## 💭 Мысли
 👊[「 Форма Силы 」](shape_of_force-2.md)
