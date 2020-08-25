@@ -13,6 +13,7 @@
 ☄️ [Convergence](convergence.md)
 ## 🕯️ Theology
 🔮 [Incomprehensibility](incomprehensibility.md)
+
 🧮 [Numerical Glory](numericalglory.md)
 ## 💭 Thoughts
 👊[「 Shape of Force 」](shape_of_force.md)
