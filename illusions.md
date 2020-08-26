@@ -1,4 +1,4 @@
-# ⏳ 『 Illusions Die Without Witnesses 』 ⏳
+# ⏳ 『 Illusions Always Die 』 ⏳
 <p align="justify">You are not sure whether to worry or rejoice about this, but again, neither anxiety nor euphoria will last forever. Any tradition is nothing more than a fragile illusion that will disappear as soon as people stop playing along with it, and each of them is doomed to be erased into dust by the silent passage of time.</p>
 
 <p align="justify">The only thing you can do now is wait and see what happens next. You have gone too far in your life and you feel like you can never go back to where you started. Everyone can boldly surrender and watch as one after another, without his support and intervention, houses of cards will fall in a matter of seconds, the construction of which took hundreds of years. But that doesn't make sense when they are all doomed to fail anyway. It would be better if you stayed here in your daily routine, where nothing is achieved and everything remains the same.</p>
