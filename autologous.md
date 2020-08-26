@@ -20,9 +20,7 @@
 
 <p align="justify">For example, it is widely believed that the concept of God is a logical necessity. This argument states that it is impossible to imagine life without the gods. This is a false statement. Singularities of justification selfishly condense all explanations around them in order to maintain their universality. The absolute paradigm of justification always leads to the absurd collapse of logic, since all theories based on one justification are doomed to fail.</p>
 
-
 ***
-
 
 ##### ↩️ [Back](index.md) | 🌻 [Русская Версия](autologous-2.md)
 
