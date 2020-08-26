@@ -1,4 +1,5 @@
 # ♟️ Autologous Singularity ♟️
+
 <p align="justify">Singularity is a theoretical concept that implies the creation of artificial intelligence that can reproduce its creation. In general, it seems pretty obvious that the final cycle does not have infinite explanatory power. It is clear that for each logical transition, new grounds may be required. A finite explain loop cannot satisfy the stringent requirements of the explain standard, even if you allow looping logic.</p>
 
 <p align="justify">The question is, what are the limits of your abilities and the abilities of other beings? Any topic can be discussed endlessly. It is only a matter of time before discussions on the topic become a separate topic requiring clarification. It's the same with singularities. If we don't know how they work, why should we care about them?</p>
