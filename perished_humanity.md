@@ -65,4 +65,4 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](perished_humanity.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](perished_humanity-2.md)
