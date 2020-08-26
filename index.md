@@ -7,6 +7,8 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🗿 Philosophy
+♟️ [Autologous Singularity](autologous.md)
 ## 🗳️ Politics
 🦠 [Manifesto of Cellularism](cellularism.md)
 
