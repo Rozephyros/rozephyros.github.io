@@ -5,7 +5,7 @@
   
 <p align="right">Humanity has perished and will always perish again.</p>
   
-<p align="right">Shedding tears, time, meaning and blood into infinity.</p>
+<p align="right">Shedding tears, time, meaning, and blood into infinity.</p>
 
 <p align="left">Humanity has perished, slowly dissolved</p>
   
