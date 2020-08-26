@@ -8,7 +8,7 @@
 
 <p align="justify">There are several interpretations of the logic loop. These interpretations are not mutually exclusive. You may have your own explanation of the process. In any case, we can all be sure of one important fact. We should not nominally introduce an absolute category of the type of god to whom all questions apply and who overshadows everything like a black hole. The idea of such a god is absurd.</p>
 
-<p align="justify">When we talk about the logic of an explanation, we in no way assume that it exists. Nihilism is preferable to building The Tower of Babel of mathematical logic. It is preferable to use the induction method, which is at least a proven procedure. Otherwise, any given topic can be constructively looped. In this case, the cycle can include a discussion of the nature of God, which cannot be said about other models.
+<p align="justify">When we talk about the logic of an explanation, we in no way assume that it exists. Nihilism is preferable to building The Tower of Babel of mathematical logic. It is preferable to use the induction method, which is at least a proven procedure. Otherwise, any given topic can be constructively looped. In this case, the cycle can include a discussion of the nature of God, which cannot be said about other models.</p>
 
 <p align="justify">We must now ask, is the concept of God logically necessary? It is very difficult to enumerate everything that requires an explanation in order to avoid the absurd metaphysics of universal grounds. The idea of God is the basis for the idea of the laws of nature, of which there are many, including the laws of logic. The cycle always sets the boundaries and explains the limited area of discourse they have limited. The concept of God will probably be necessary, but that does not mean that it is reasonable.</p>
 
@@ -20,9 +20,7 @@
 
 <p align="justify">For example, it is widely believed that the concept of God is a logical necessity. This argument states that it is impossible to imagine life without the gods. This is a false statement. Singularities of justification selfishly condense all explanations around them in order to maintain their universality. The absolute paradigm of justification always leads to the absurd collapse of logic, since all theories based on one justification are doomed to fail.</p>
 
-
 ***
-
 
 ##### ↩️ [Back](index.md) | 🌻 [Русская Версия](autologous-2.md)
 
