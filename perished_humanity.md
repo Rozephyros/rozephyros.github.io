@@ -51,7 +51,7 @@
   
 <p align="left">Into the dust of billions of voices crushed by millstones.</p>
   
-<p align="right">Humanity perished with only the last cry</p>
+<p align="right">Humanity has perished with only the last cry</p>
   
 <p align="right">That didn't pierce the atmosphere from the pages of burning books.</p>
 
