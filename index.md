@@ -25,6 +25,8 @@
 🕵️ [Confidential Information](confidential.md)
 
 🦸 [Radical Change](true_heroism.md)
+## 🌌 Universe
+🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
 ## ✍️ Writing
 🏛️ [「 Step By Step 」](step_by_step.md)
 
