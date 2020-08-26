@@ -14,7 +14,7 @@
 ## 📝 Poetry
 ☄️ [Convergence](convergence.md)
 
-🥀 [Perished Humanity](perished_humanity-2.md)
+🥀 [Perished Humanity](perished_humanity.md)
 ## 🕯️ Theology
 🔮 [Incomprehensibility](incomprehensibility.md)
 
