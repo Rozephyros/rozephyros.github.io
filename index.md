@@ -22,6 +22,8 @@
 ## 💭 Thoughts
 👊[「 Shape of Force 」](shape_of_force.md)
 
+⏳[『 Illusions Always Die Without Witnesses 』](illusions.md)
+
 🕊️ [Complete Liberation](liberation.md)
 
 🕵️ [Confidential Information](confidential.md)
