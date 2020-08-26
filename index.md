@@ -13,6 +13,8 @@
 🏬 [Overtone Range](overtone_range.md)
 ## 📝 Poetry
 ☄️ [Convergence](convergence.md)
+
+🥀 [Perished Humanity](perished_humanity-2.md)
 ## 🕯️ Theology
 🔮 [Incomprehensibility](incomprehensibility.md)
 
