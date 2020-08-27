@@ -3,6 +3,8 @@
 
 ## 📚 General
 🥀 [Introduction](introduction.md)
+## 💥 Eschatology
+🖥️ [Sixth Seal](sixth_seal.md)
 ## 🔮 Mysticism
 🔮 [Idealistic Spirituality](mirage.md)
 
