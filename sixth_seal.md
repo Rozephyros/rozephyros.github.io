@@ -1,7 +1,7 @@
 # 🖥️ Sixth Seal 🖥️
 <p align="justify">The truth is, and you will be convinced of this in the near future, there are no more organisms left. Human beings have been reduced to a few cells connected by a digital network. And these cells that were once alive are now dead. Organisms disintegrated into cancer cells, each of which seeks to play by its own rules, expand indefinitely and increase food reserves. The only obstacle to their self-destruction is an artificial barrier created by the human mind.</p> 
 
-<p align="justify">And this barrier is breaking down. [The cellular manifesto](cellularism.md) may require rather curious details that will never be implemented. He demands that the entire world stop producing as much carbon dioxide as possible, but he does not say how to provide food for billions of people. But if you discard the candy wrappers and get to the bottom of the details, the manifest is already outdated, since its key requirements have already been met.</p> 
+<p align="justify">And this barrier is breaking down. <a href="cellularism.md">The cellular manifesto(</a> may require rather curious details that will never be implemented. He demands that the entire world stop producing as much carbon dioxide as possible, but he does not say how to provide food for billions of people. But if you discard the candy wrappers and get to the bottom of the details, the manifest is already outdated, since its key requirements have already been met.</p> 
 
 <p align="justify">The world is full of cancer cells.</p> 
 
