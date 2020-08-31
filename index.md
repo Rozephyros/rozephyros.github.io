@@ -5,6 +5,8 @@
 🥀 [Introduction](introduction.md)
 ## 💥 Eschatology
 🖥️ [Sixth Seal](sixth_seal.md)
+## 🏺 History
+💡 [Transfinite Radiation](radiation.md)
 ## 🔮 Mysticism
 🔮 [Idealistic Spirituality](mirage.md)
 
