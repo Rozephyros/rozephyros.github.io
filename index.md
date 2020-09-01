@@ -7,6 +7,8 @@
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
+## 🦉 Logic
+🎭 [Honest Deception](deception-2.md)
 ## 🔮 Mysticism
 🔮 [Idealistic Spirituality](mirage.md)
 
