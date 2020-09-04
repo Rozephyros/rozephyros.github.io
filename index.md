@@ -5,6 +5,8 @@
 🥀 [Introduction](introduction.md)
 ## 💥 Eschatology
 🖥️ [Sixth Seal](sixth_seal.md)
+## 🌐 Geopolitics
+🌌 [Cosmic Stability](stability.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
 ## 🦉 Logic
