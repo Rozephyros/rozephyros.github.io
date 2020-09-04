@@ -18,6 +18,8 @@
 ## 🗿 Philosophy
 ♟️ [Autologous Singularity](autologous.md)
 ## 🗳️ Politics
+👑 [Lead Crown](leadcrown.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
 
 🏬 [Overtone Range](overtone_range.md)
