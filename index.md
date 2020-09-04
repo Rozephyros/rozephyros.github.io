@@ -10,7 +10,7 @@
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
 ## 🦉 Logic
-🎭 [Honest Deception](deception-2.md)
+🎭 [Honest Deception](deception.md)
 ## 🔮 Mysticism
 🔮 [Idealistic Spirituality](mirage.md)
 
