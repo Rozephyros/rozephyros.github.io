@@ -1,0 +1,10 @@
+# 🌌 Cosmic Stability 🌌
+<p align="justify">The seventeenth century. The week-long trip from Kyiv was uneventful. People want to talk about their families, their jobs, their village, and their friends. You had little contact with these "libertarians", but you concluded that their beliefs are more erroneous than dangerous and they will never pose a threat to the Empire. The next day, you inform your trusted lieutenants that you have decided on a plan of action. Building a center of power will take effort and sacrifice. Nothing is free.</p>
+
+<p align="justify">People are happy with historical news, but pity would be more useful. Now is the time for them to voice their thoughts, and you expect a lot of controversies. And that is the question. We are not getting close to understanding the universe. On the contrary, our policy is to stick to what little we know. And this means that we will remain in the past for an unlimited time. Russia talks about stability the way it talked about stability ten years ago. It is becoming clear that Ukraine's policy is not so much an attempt to live in France as an escape from the horizon of an incipient black hole. Black holes are the most stable objects in the universe.</p>
+
+<p align="justify">Will the victory of predatory gravity destroy entropy? Or is this the last salvation from the "libertarians" who remained in power? Historically, there is a third scenario. What is it? The path of pragmatism would not be difficult if it was impossible to stumble on it. What are we willing to sacrifice? We'll have to give up ideologies. This is a good idea, but it doesn't survive in the real world. It is impossible to play cards that are not in the deck of experienced players. We do not position ourselves as a locomotive of progress, like Europe, or at least development, like China. We're only here for the money. But, as the saying goes, nothing is given for free. Instead of the expected center of power, a center of powerlessness inevitably arises. The fourth in the history of mankind.</p>
+
+***
+
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](stability-2.md)
