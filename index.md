@@ -4,7 +4,7 @@
 ## 📚 General
 🥀 [Introduction](introduction.md)
 ## 💥 Eschatology
-☠️ [Eclipsing Pandemic](redplague-2.md)
+☠️ [Eclipsing Pandemic](redplague.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🌐 Geopolitics
