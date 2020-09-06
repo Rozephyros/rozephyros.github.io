@@ -19,6 +19,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Philosophy
 ♟️ [Autologous Singularity](autologous.md)
+
+📖 [Critical Authority](criticism.md)
 ## 🗳️ Politics
 🌾 [Enlightened Community](communalism.md)
 
