@@ -21,6 +21,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+
+🏃 [Independent Speed](acceleration.md)
 ## 🗳️ Politics
 🌾 [Enlightened Community](communalism.md)
 
