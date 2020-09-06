@@ -20,6 +20,8 @@
 ## 🗿 Philosophy
 ♟️ [Autologous Singularity](autologous.md)
 ## 🗳️ Politics
+🌾 [Enlightened Community](communalism.md)
+
 👑 [Lead Crown](leadcrown.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
