@@ -22,6 +22,8 @@
 
 📖 [Critical Authority](criticism.md)
 
+⛓️ [Effective Independence](independence.md)
+
 🏃 [Independent Speed](acceleration.md)
 ## 🗳️ Politics
 🌾 [Enlightened Community](communalism.md)
