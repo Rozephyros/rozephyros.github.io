@@ -33,6 +33,8 @@
 🦠 [Manifesto of Cellularism](cellularism.md)
 
 🏬 [Overtone Range](overtone_range.md)
+
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📝 Poetry
 ☄️ [Convergence](convergence.md)
 
