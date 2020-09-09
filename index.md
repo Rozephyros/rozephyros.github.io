@@ -26,6 +26,8 @@
 
 🏃 [Independent Speed](acceleration.md)
 ## 🗳️ Politics
+💔 [「 Gap of Trust 」](gap_of_trust.md)
+
 🌾 [Enlightened Community](communalism.md)
 
 👑 [Lead Crown](leadcrown.md)
