@@ -7,5 +7,5 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](gap_of_trust..md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](gap_of_trust.md)
 
