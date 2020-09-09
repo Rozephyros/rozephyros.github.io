@@ -20,7 +20,7 @@
 ## 🗿 Philosophy
 ♟️ [Autologous Singularity](autologous.md)
 
-🎨 [Colorful Intelligence](colorful-2.md)
+🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
 
