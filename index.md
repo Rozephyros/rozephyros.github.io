@@ -20,6 +20,8 @@
 ## 🗿 Philosophy
 ♟️ [Autologous Singularity](autologous.md)
 
+🎨 [Colorful Intelligence](colorful-2.md)
+
 📖 [Critical Authority](criticism.md)
 
 ⛓️ [Effective Independence](independence.md)
