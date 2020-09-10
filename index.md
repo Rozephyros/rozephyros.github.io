@@ -13,6 +13,8 @@
 💡 [Transfinite Radiation](radiation.md)
 ## 🦉 Logic
 🎭 [Honest Deception](deception.md)
+## ⚛️ Metaphysics
+🛠️ [Linear Metaphysics](linearity.md)
 ## 🔮 Mysticism
 🔮 [Idealistic Spirituality](mirage.md)
 
