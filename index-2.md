@@ -52,7 +52,7 @@
 
 🧮 [Числовая Слава](numericalglory-2.md)
 ## 🗿 Философия
-🚘️ [「 Скорость Мысли ](speed_of_thought-2.md)
+🚘️ [「 Скорость Мысли 」](speed_of_thought-2.md)
 
 ♟️ [Автологичная Сингулярность](autologous-2.md)
 
