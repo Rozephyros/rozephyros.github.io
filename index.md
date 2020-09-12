@@ -50,9 +50,11 @@
 
 🧮 [Numerical Glory](numericalglory.md)
 ## 💭 Thoughts
-👊[「 Shape of Force 」](shape_of_force.md)
+👊 [「 Shape of Force 」](shape_of_force.md)
 
-⏳[『 Illusions Always Die 』](illusions.md)
+⏳ [『 Illusions Always Die 』](illusions.md)
+
+🎭 [『 Маска Лишь Костюм 』](costume-2.md)
 
 🕊️ [Complete Liberation](liberation.md)
 
