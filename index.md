@@ -54,7 +54,7 @@
 
 ⏳ [『 Illusions Always Die 』](illusions.md)
 
-🎭 [『 Маска Лишь Костюм 』](costume-2.md)
+🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🕊️ [Complete Liberation](liberation.md)
 
