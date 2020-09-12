@@ -20,6 +20,8 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Philosophy
+🚘️ [「 Speed of Thought 」](speed_of_thought.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
