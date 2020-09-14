@@ -7,6 +7,8 @@
 ☠️ [Eclipsing Pandemic](redplague.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
+## 🕯️ Esoterics
+⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌐 Geopolitics
 🌌 [Cosmic Stability](stability.md)
 ## 🏺 History
