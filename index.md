@@ -3,6 +3,8 @@
 
 ## 📚 General
 🥀 [Introduction](introduction.md)
+## 😒 Criticism
+😇 [Rejected Holiness](holiness.md)
 ## 💥 Eschatology
 ☠️ [Eclipsing Pandemic](redplague.md)
 
