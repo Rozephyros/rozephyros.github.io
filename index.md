@@ -35,6 +35,8 @@
 ⛓️ [Effective Independence](independence.md)
 
 🏃 [Independent Speed](acceleration.md)
+
+🏷️ [Price Balance](price_balance.md)
 ## 🗳️ Politics
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
