@@ -14,6 +14,8 @@
 ## 🌐 Geopolitics
 🌌 [Cosmic Stability](stability.md)
 ## 🏺 History
+👑 [「 Wealth of Empires 」](wealth_of_empires-2.md)
+
 💡 [Transfinite Radiation](radiation.md)
 ## 🦉 Logic
 🎭 [Honest Deception](deception.md)
