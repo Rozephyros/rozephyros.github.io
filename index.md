@@ -21,6 +21,8 @@
 🎭 [Honest Deception](deception.md)
 ## ⚛️ Metaphysics
 🛠️ [Linear Metaphysics](linearity.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🔮 Mysticism
 🔮 [Idealistic Spirituality](mirage.md)
 
