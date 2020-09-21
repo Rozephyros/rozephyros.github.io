@@ -42,7 +42,7 @@
 
 🏷️ [Price Balance](price_balance.md)
 ## 🗳️ Politics
-📺️ [「 Future of Propaganda 」](gap_of_trust-2.md)
+📺️ [「 Future of Propaganda 」](propaganda.md)
 
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
