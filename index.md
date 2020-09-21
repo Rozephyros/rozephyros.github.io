@@ -42,6 +42,8 @@
 
 🏷️ [Price Balance](price_balance.md)
 ## 🗳️ Politics
+📺️ [「 Future of Propaganda 」](gap_of_trust-2.md)
+
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
 🌾 [Enlightened Community](communalism.md)
