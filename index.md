@@ -41,6 +41,8 @@
 🏃 [Independent Speed](acceleration.md)
 
 🏷️ [Price Balance](price_balance.md)
+
+🧠 [Thinking Object](thinking_object.md)
 ## 🗳️ Politics
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
