@@ -1,6 +1,6 @@
 # 🧠 Thinking Object 🧠
 
-<p align="justify">Can the relationship between object and subject be confused? Is it possible to separate a person from feelings, emotions and desires? This is certainly an interesting assumption, but it is built on a problematic basis. The only way to draw a line is to erase from public consciousness all the memory of the existence of another person. But if this is done, then why even discuss the influence of personality on The Universe?</p>
+<p align="justify">Can the relationship between object and subject be confused? Is it possible to separate a person from feelings, emotions, and desires? This is certainly an interesting assumption, but it is built on a problematic basis. The only way to draw a line is to erase from public consciousness all the memory of the existence of another person. But if this is done, then why even discuss the influence of personality on The Universe?</p>
 
 <p align="justify">On the one hand, we argue that subjectivity depends on the context of the relationship between psyche and matter. On the other hand, we assume that the goal is independent of subjective influence. It seems that any point of view can be supported by a simple statement of the obvious. However, when details are lost, an important new question arises.</p>
 
