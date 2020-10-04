@@ -61,6 +61,8 @@
 ☄️ [Convergence](convergence.md)
 
 🥀 [Perished Humanity](perished_humanity.md)
+## 🌹 Socialism
+🦁 [Heroic Betrayal](heroic_betrayal.md)
 ## 🕯️ Theology
 🔮 [Incomprehensibility](incomprehensibility.md)
 
