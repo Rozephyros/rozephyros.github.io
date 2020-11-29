@@ -24,5 +24,5 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](universal_revolution-2.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](universal_revolution-2.md) | 📚 [Thematic Catalogue](index_t.md)
 
