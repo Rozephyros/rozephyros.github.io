@@ -6,7 +6,7 @@
 
 <p align="justify">People who don't expect anything good are just as blind as those who blindly believe in the best. The pessimist differs from the optimist only in the chosen side of neglect, the beloved ghost of truth. Confidence is not guaranteed, development exceeds forecasts. What separates us from the happy ending is not a lack of opportunity, but a commitment to the strategy.</p>
 
-<p align="justify">People who paint one option and one scenario are doomed to fail. They don't build castles with all their hidden spans and foundations. They just admire their appearance. You don't have to be a fool to play the smart game. The smartest move is not to fight reality, but to enter into dialogue with the universe. Most events are developing contrary to expectations. When this happens, all that remains is to laugh, smile and look for the next opportunity. Never forget this fact, and your chances of a happy life will skyrocket.</p>
+<p align="justify">People who paint one option and one scenario are doomed to fail. They don't build castles with all their hidden spans and foundations. They just admire their appearance. You don't have to be a fool to play the smart game. The smartest move is not to fight reality, but to enter into dialogue with the universe. Most events are developing contrary to expectations. When this happens, all that remains is to laugh, smile, and look for the next opportunity. Never forget this fact, and your chances of a happy life will skyrocket.</p>
 
 ***
 
