@@ -6,15 +6,21 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗯️ Argumentation
 ♟️ [Autologous Singularity](autologous.md)
+
+📖 [Critical Authority](criticism.md)
 ## 🤔 Assumptions
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -32,6 +38,8 @@
 ## 🧪 Branches of Science
 ♟️ [Autologous Singularity](autologous.md)
 
+📖 [Critical Authority](criticism.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛓️ Causality
 🎨 [Colorful Intelligence](colorful.md)
@@ -48,6 +56,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🎭 [Honest Deception](deception.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -58,6 +68,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -67,10 +79,14 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🎨 Concepts
 ♟️ [Autologous Singularity](autologous.md)
+
+📖 [Critical Authority](criticism.md)
 ## 💭 Consciousness
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 📖 Contemporary Philosophy
+📖 [Critical Authority](criticism.md)
 ## ❌ Contradiction
 🎭 [Honest Deception](deception.md)
 ## 🕯️ Divine Concepts
@@ -93,6 +109,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -148,6 +166,8 @@
 ## 🎓 Interdisciplinary Subfields
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -162,6 +182,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -173,6 +195,8 @@
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🦉 Logic
 ♟️ [Autologous Singularity](autologous.md)
+
+📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -189,12 +213,16 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+📖 [Critical Authority](criticism.md)
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -234,6 +262,8 @@
 ## 🔳 Object
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚖️ Objectivity
+📖 [Critical Authority](criticism.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚡ Omnipotence
 🎭 [Honest Deception](deception.md)
@@ -247,10 +277,14 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🔬 Philosophical Methodology
 ♟️ [Autologous Singularity](autologous.md)
+
+📖 [Critical Authority](criticism.md)
 ## 📚 Philosophical Movements
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+📖 [Critical Authority](criticism.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
@@ -266,6 +300,8 @@
 
 🔮 [Idealistic Spirituality](mirage.md)
 
+📖 [Critical Authority](criticism.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -279,6 +315,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -312,6 +350,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -327,6 +367,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 ## 🤔 Reasoning
 ♟️ [Autologous Singularity](autologous.md)
+
+📖 [Critical Authority](criticism.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛪ Religion
@@ -366,6 +408,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🎭 [Honest Deception](deception.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
@@ -376,12 +420,16 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Theory
+📖 [Critical Authority](criticism.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💭 Thought
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⌛ Time
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🧭 Truth
+📖 [Critical Authority](criticism.md)
+
 🎭 [Honest Deception](deception.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -394,13 +442,14 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 -------------------------------------
-
-📖 [Critical Authority](criticism.md)
 
 ⛓️ [Effective Independence](independence.md)
 
@@ -453,7 +502,3 @@
 ***
 
 ##### 🌻 [Русская Версия](index-2.md)
-
-
-
-
