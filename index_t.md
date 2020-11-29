@@ -13,6 +13,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🌹 Anti-Capitalism
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
 ## 🗯️ Argumentation
 ♟️ [Autologous Singularity](autologous.md)
 
@@ -109,6 +111,10 @@
 🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🛠️ Communism
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+## 🗳️ Communist Party
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
 ## 🌾 Community
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🎨 Concepts
@@ -196,6 +202,8 @@
 ## 📝 Facts
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🏛️ Forms of Government
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🤖 Future
 🖥️ [Sixth Seal](sixth_seal.md)
@@ -208,6 +216,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🏛️ Government
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
@@ -226,6 +236,8 @@
 
 🌾 [Enlightened Community](communalism.md)
 
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
 🔮 [Idealistic Spirituality](mirage.md)
 
 👑 [Lead Crown](leadcrown.md)
@@ -242,6 +254,8 @@
 ## 💡 Ideas
 ♟️ [Autologous Singularity](autologous.md)
 ## 🧭 Ideology
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🙈 Ignorance
 🏃 [Independent Speed](acceleration.md)
@@ -289,6 +303,10 @@
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 ## 💙 Life
 🖥️ [Sixth Seal](sixth_seal.md)
+## 📚 Literature
+☄️ [Convergence](convergence.md)
+
+🥀 [Perished Humanity](perished_humanity.md)
 ## 🦉 Logic
 ♟️ [Autologous Singularity](autologous.md)
 
@@ -361,7 +379,7 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🕊️ Morality
 🏬 [Overtone Range](overtone_range.md)
-## 🇩🇪 Nazi Germany
+## 🏴 Nazi Germany
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
 🎨 [Colorful Intelligence](colorful.md)
@@ -502,11 +520,15 @@
 ## 🧭 Political Ideology
 🌾 [Enlightened Community](communalism.md)
 
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📊 Political Science
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 👓 Political Theories
 🌾 [Enlightened Community](communalism.md)
+
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🗳️ Politics
@@ -517,6 +539,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 🌾 [Enlightened Community](communalism.md)
+
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 👑 [Lead Crown](leadcrown.md)
 
@@ -596,6 +620,8 @@
 
 🏬 [Overtone Range](overtone_range.md)
 ## 🌹 Socialism
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🤝 Society
 🦠 [Manifesto of Cellularism](cellularism.md)
@@ -604,6 +630,8 @@
 ## 👓 Sociological Theories
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🇨🇳 Soviet Union
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 💜 Soul
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -663,6 +691,8 @@
 👑 [Lead Crown](leadcrown.md)
 ## 🤔 Understanding
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🇨🇳 Vladimir Lenin
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
 ## 💥 Weapons of Destruction
 ⛓️ [Effective Independence](independence.md)
 ## 🏛️ Western History
@@ -679,12 +709,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-☄️ [Convergence](convergence.md)
-
-🥀 [Perished Humanity](perished_humanity.md)
-
-🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
 
