@@ -8,5 +8,5 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](wealth_of_empires.md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](wealth_of_empires.md) | 📚 [Thematic Catalogue](index_2t.md)
 
