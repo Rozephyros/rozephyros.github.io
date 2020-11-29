@@ -39,7 +39,11 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## ❌ Contradiction
 🎭 [Honest Deception](deception.md)
+## 🧙 Divinity
+🔮 [Idealistic Spirituality](mirage.md)
 ## 🙌 Doctrine of Religion
+🔮 [Idealistic Spirituality](mirage.md)
+
 😇 [Rejected Holiness](holiness.md)
 ## 📈 Economy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
@@ -54,6 +58,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌌 Existence
+🔮 [Idealistic Spirituality](mirage.md)
+
 🛠️ [Linear Metaphysics](linearity.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -66,6 +72,8 @@
 ## 😇 God
 🎭 [Honest Deception](deception.md)
 
+🔮 [Idealistic Spirituality](mirage.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
@@ -75,6 +83,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 🌌 [Cosmic Stability](stability.md)
+
+🔮 [Idealistic Spirituality](mirage.md)
 
 💡 [Transfinite Radiation](radiation.md)
 ## 👑 Imperialism
@@ -107,6 +117,8 @@
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 🎭 [Honest Deception](deception.md)
+
+🔮 [Idealistic Spirituality](mirage.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -144,6 +156,8 @@
 ## 👓 Philosophical Theories
 🎭 [Honest Deception](deception.md)
 
+🔮 [Idealistic Spirituality](mirage.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -151,6 +165,8 @@
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 🎭 [Honest Deception](deception.md)
+
+🔮 [Idealistic Spirituality](mirage.md)
 
 🥀 [Introduction](introduction.md)
 
@@ -180,11 +196,15 @@
 ## 💡 Psychology
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌈 Reality
+🔮 [Idealistic Spirituality](mirage.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🤔 Reasoning
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛪ Religion
 ☠️ [Eclipsing Pandemic](redplague.md)
+
+🔮 [Idealistic Spirituality](mirage.md)
 ## 🧿 Religious Experience
 😇 [Rejected Holiness](holiness.md)
 ## 💖 Romanticism
@@ -197,16 +217,22 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Space
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🧙 Spirituality
+🔮 [Idealistic Spirituality](mirage.md)
 ## 😅 Subjectivity
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💳 Tax
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🕯️ Theology
+🔮 [Idealistic Spirituality](mirage.md)
+
 😇 [Rejected Holiness](holiness.md)
 ## ⚗️ Theoretical Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 🎭 [Honest Deception](deception.md)
+
+🔮 [Idealistic Spirituality](mirage.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
@@ -229,9 +255,6 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 -------------------------------------
-
-## 🔮 Mysticism
-🔮 [Idealistic Spirituality](mirage.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 
