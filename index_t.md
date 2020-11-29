@@ -503,6 +503,8 @@
 🌾 [Enlightened Community](communalism.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
+## 📊 Political Science
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 👓 Political Theories
 🌾 [Enlightened Community](communalism.md)
 
