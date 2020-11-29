@@ -186,6 +186,8 @@
 ## 🤵 Human
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💼 Human Activity
+📺️ [「 Future of Propaganda 」](propaganda.md)
+
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
@@ -436,11 +438,15 @@
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🗳️ Politics
+📺️ [「 Future of Propaganda 」](propaganda.md)
+
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 💡 [Transfinite Radiation](radiation.md)
 ## 🏷️ Prices
 🧠 [Thinking Object](thinking_object.md)
+## 📺️ Propaganda
+📺️ [「 Future of Propaganda 」](propaganda.md)
 ## 🔮 Psychological Concepts
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -542,6 +548,8 @@
 ## ⌛ Time
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🧭 Truth
+📺️ [「 Future of Propaganda 」](propaganda.md)
+
 📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
@@ -565,8 +573,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-📺️ [「 Future of Propaganda 」](propaganda.md)
 
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
