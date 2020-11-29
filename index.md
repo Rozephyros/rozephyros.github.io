@@ -24,6 +24,8 @@
 
 🎭 [Honest Deception](deception.md)
 
+🏃 [Independent Speed](acceleration.md)
+
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -35,10 +37,14 @@
 🛠️ [Linear Metaphysics](linearity.md)
 ## 📐 Axiomatic System
 ♟️ [Autologous Singularity](autologous.md)
+## 😒 Bias
+🏃 [Independent Speed](acceleration.md)
 ## 🧪 Branches of Science
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+
+🏃 [Independent Speed](acceleration.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛓️ Causality
@@ -60,6 +66,8 @@
 
 🎭 [Honest Deception](deception.md)
 
+🏃 [Independent Speed](acceleration.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -71,6 +79,8 @@
 📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
+
+🏃 [Independent Speed](acceleration.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
@@ -114,13 +124,19 @@
 
 🎭 [Honest Deception](deception.md)
 
+🏃 [Independent Speed](acceleration.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🌌 Existence
+⛓️ [Effective Independence](independence.md)
+
 🔮 [Idealistic Spirituality](mirage.md)
+
+🏃 [Independent Speed](acceleration.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -155,6 +171,8 @@
 💡 [Transfinite Radiation](radiation.md)
 ## 😇 Ideas
 ♟️ [Autologous Singularity](autologous.md)
+## 🙈 Ignorance
+🏃 [Independent Speed](acceleration.md)
 ## 🌈 Imagination
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👑 Imperialism
@@ -167,6 +185,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+🏃 [Independent Speed](acceleration.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -200,6 +220,8 @@
 
 🎭 [Honest Deception](deception.md)
 
+🏃 [Independent Speed](acceleration.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚛️ Matter
 🛠️ [Linear Metaphysics](linearity.md)
@@ -227,6 +249,8 @@
 🎭 [Honest Deception](deception.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
+
+🏃 [Independent Speed](acceleration.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -259,6 +283,14 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## ⬛ Nothing
 ⚫️ [Liquid Obsidian](obsidian.md)
+## ⚡ Nuclear Energy
+⛓️ [Effective Independence](independence.md)
+## 🔭 Nuclear Physics
+⛓️ [Effective Independence](independence.md)
+## 🔬 Nuclear Technology
+⛓️ [Effective Independence](independence.md)
+## 🗡️ Nuclear Weapons
+⛓️ [Effective Independence](independence.md)
 ## 🔳 Object
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚖️ Objectivity
@@ -296,11 +328,13 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+📖 [Critical Authority](criticism.md)
+
 🎭 [Honest Deception](deception.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
 
-📖 [Critical Authority](criticism.md)
+🏃 [Independent Speed](acceleration.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
@@ -318,9 +352,13 @@
 
 📖 [Critical Authority](criticism.md)
 
+⛓️ [Effective Independence](independence.md)
+
 🎭 [Honest Deception](deception.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
+
+🏃 [Independent Speed](acceleration.md)
 
 🥀 [Introduction](introduction.md)
 
@@ -338,6 +376,8 @@
 ## 🧪 Physical Science
 🛠️ [Linear Metaphysics](linearity.md)
 ## ⚛️ Physics
+⛓️ [Effective Independence](independence.md)
+
 🛠️ [Linear Metaphysics](linearity.md)
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
@@ -352,10 +392,14 @@
 
 📖 [Critical Authority](criticism.md)
 
+🏃 [Independent Speed](acceleration.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Psychology
+🏃 [Independent Speed](acceleration.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌈 Reality
 🎨 [Colorful Intelligence](colorful.md)
@@ -369,6 +413,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+
+🏃 [Independent Speed](acceleration.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛪ Religion
@@ -414,6 +460,8 @@
 
 🔮 [Idealistic Spirituality](mirage.md)
 
+🏃 [Independent Speed](acceleration.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -435,6 +483,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🤔 Understanding
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 💥 Weapons of Destruction
+⛓️ [Effective Independence](independence.md)
 ## 🏛️ Western History
 💡 [Transfinite Radiation](radiation.md)
 ## 🗽 Western Philosophy
@@ -450,26 +500,16 @@
 
 -------------------------------------
 
-⛓️ [Effective Independence](independence.md)
-
-🏃 [Independent Speed](acceleration.md)
 
 🏷️ [Price Balance](price_balance.md)
-
 🧠 [Thinking Object](thinking_object.md)
 ## 🗳️ Politics
 📺️ [「 Future of Propaganda 」](propaganda.md)
-
 💔 [「 Gap of Trust 」](gap_of_trust.md)
-
 🌾 [Enlightened Community](communalism.md)
-
 👑 [Lead Crown](leadcrown.md)
-
 🦠 [Manifesto of Cellularism](cellularism.md)
-
 🏬 [Overtone Range](overtone_range.md)
-
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📝 Poetry
 ☄️ [Convergence](convergence.md)
