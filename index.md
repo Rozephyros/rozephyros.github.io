@@ -64,7 +64,7 @@
 ## 💡 Psychology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 ## 🌹 Socialism
-🦁 [Heroic Betrayal](heroic_betrayal.md)
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
 ## 🕯️ Theology
 🔮 [Incomprehensibility](incomprehensibility.md)
 
