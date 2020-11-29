@@ -6,5 +6,5 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](linearity.md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](linearity.md) | 📚 [Тематический Каталог](index_2t.md)
 
