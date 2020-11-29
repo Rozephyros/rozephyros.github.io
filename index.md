@@ -4,6 +4,8 @@
 ## 🤔 Assumptions
 🎭 [Honest Deception](deception.md)
 
+🛠️ [Linear Metaphysics](linearity.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## ⚛️ Atoms
 🛠️ [Linear Metaphysics](linearity.md)
@@ -41,6 +43,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Existence
 🛠️ [Linear Metaphysics](linearity.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💡 Experience
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🤖 Future
@@ -55,7 +59,9 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💼 Human Activity
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+
 🌌 [Cosmic Stability](stability.md)
+
 💡 [Transfinite Radiation](radiation.md)
 ## 👑 Imperialism
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
@@ -71,9 +77,9 @@
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🦉 Logic
 🎭 [Honest Deception](deception.md)
-## 💭 Mind
-🖥️ [Sixth Seal](sixth_seal.md)
 ## ⚛️ Matter
+🛠️ [Linear Metaphysics](linearity.md)
+## 🛠️ Mechanics
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -82,15 +88,25 @@
 
 🎭 [Honest Deception](deception.md)
 
+🛠️ [Linear Metaphysics](linearity.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
-## 💭 Metaphysics of Mind
+## 💡 Metaphysics of Mind
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 💭 Mind
+🖥️ [Sixth Seal](sixth_seal.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🇩🇪 Nazi Germany
 💡 [Transfinite Radiation](radiation.md)
 ## ⬛ Nothing
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🔳 Object
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚡ Omnipotence
 🎭 [Honest Deception](deception.md)
+## 👁️ Perception
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 📚 Philosophical Movements
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 👓 Philosophical Theories
@@ -111,6 +127,10 @@
 😇 [Rejected Holiness](holiness.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
+## 🧪 Physical Science
+🛠️ [Linear Metaphysics](linearity.md)
+## ⚛️ Physics
+🛠️ [Linear Metaphysics](linearity.md)
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🗳️ Politics
@@ -127,6 +147,10 @@
 😇 [Rejected Holiness](holiness.md)
 ## 💖 Romanticism
 💡 [Transfinite Radiation](radiation.md)
+## 🧪 Science
+🛠️ [Linear Metaphysics](linearity.md)
+## 👁️ Self-Awareness
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💜 Soul
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Space
@@ -141,10 +165,16 @@
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 👓 Theory
+🌌 [Revolution of The Universe](universal_revolution.md)
+## 💭 Thought
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⌛ Time
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🧭 Truth
 🎭 [Honest Deception](deception.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🤔 Understanding
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🏛️ Western History
@@ -153,12 +183,11 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 
-
-
-
-🛠️ [Linear Metaphysics](linearity.md)
-
+-------------------------------------
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+
+
 ## 🔮 Mysticism
 🔮 [Idealistic Spirituality](mirage.md)
 
