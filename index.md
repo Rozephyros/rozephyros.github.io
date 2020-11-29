@@ -57,6 +57,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💸 Capitalism
 🌾 [Enlightened Community](communalism.md)
+
+🦠 [Manifesto of Cellularism](cellularism.md)
 ## ⛓️ Causality
 🎨 [Colorful Intelligence](colorful.md)
 ## ✝️ Christianity
@@ -105,6 +107,8 @@
 🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🌾 Community
+🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🎨 Concepts
 ♟️ [Autologous Singularity](autologous.md)
 
@@ -129,14 +133,19 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 😇 [Rejected Holiness](holiness.md)
-## 📈 Economy
+## 📈 Economics
+🦠 [Manifesto of Cellularism](cellularism.md)
+## 🌾 Economy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🔼 Emergence
 🎨 [Colorful Intelligence](colorful.md)
 
 🏷️ [Price Balance](price_balance.md)
 ## ⚜️ Empires
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+## 👷 Employment
+🦠 [Manifesto of Cellularism](cellularism.md)
 ## ☯️ Ethics
 👑 [Lead Crown](leadcrown.md)
 ## 🎓 Epistemology
@@ -207,6 +216,8 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 👑 [Lead Crown](leadcrown.md)
+
+🦠 [Manifesto of Cellularism](cellularism.md)
 
 🏷️ [Price Balance](price_balance.md)
 
@@ -455,6 +466,7 @@
 🛠️ [Linear Metaphysics](linearity.md)
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🧭 Political Ideology
 🌾 [Enlightened Community](communalism.md)
 ## 👓 Political Theories
@@ -469,6 +481,8 @@
 🌾 [Enlightened Community](communalism.md)
 
 👑 [Lead Crown](leadcrown.md)
+
+🦠 [Manifesto of Cellularism](cellularism.md)
 
 💡 [Transfinite Radiation](radiation.md)
 ## 💼 Practical Philosophy
@@ -533,6 +547,14 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🏛️ Social Institutions
 👑 [Lead Crown](leadcrown.md)
+## 🌹 Socialism
+🦠 [Manifesto of Cellularism](cellularism.md)
+## 🤝 Society
+🦠 [Manifesto of Cellularism](cellularism.md)
+## 👓 Sociological Theories
+🦠 [Manifesto of Cellularism](cellularism.md)
+## 🇨🇳 Soviet Union
+🦠 [Manifesto of Cellularism](cellularism.md)
 ## 💜 Soul
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Space
@@ -607,8 +629,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-🦠 [Manifesto of Cellularism](cellularism.md)
 
 🏬 [Overtone Range](overtone_range.md)
 
