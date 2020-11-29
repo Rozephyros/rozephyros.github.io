@@ -8,5 +8,5 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](holiness.md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](holiness.md) | 📚 [Thematic Catalogue](index_2t.md)
 
