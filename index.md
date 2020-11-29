@@ -36,6 +36,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## ⚛️ Atoms
 🛠️ [Linear Metaphysics](linearity.md)
@@ -76,6 +78,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Cognitive Science
 ♟️ [Autologous Singularity](autologous.md)
@@ -94,6 +98,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🎨 Concepts
 ♟️ [Autologous Singularity](autologous.md)
@@ -105,6 +111,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🏷️ [Price Balance](price_balance.md)
+
+🧠 [Thinking Object](thinking_object.md)
 ## 📖 Contemporary Philosophy
 📖 [Critical Authority](criticism.md)
 ## ❌ Contradiction
@@ -144,6 +152,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🌌 Existence
 ⛓️ [Effective Independence](independence.md)
@@ -155,6 +165,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧠 [Thinking Object](thinking_object.md)
 ## 💡 Experience
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 📝 Facts
@@ -278,6 +290,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Metaphysical Theories
 🎨 [Colorful Intelligence](colorful.md)
@@ -323,6 +337,8 @@
 📖 [Critical Authority](criticism.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧠 [Thinking Object](thinking_object.md)
 ## ⚡ Omnipotence
 🎭 [Honest Deception](deception.md)
 ## 👁️ Perception
@@ -372,6 +388,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
@@ -406,6 +424,8 @@
 
 🖥️ [Sixth Seal](sixth_seal.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🧪 Physical Science
 🛠️ [Linear Metaphysics](linearity.md)
@@ -419,6 +439,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 💡 [Transfinite Radiation](radiation.md)
+## 🏷️ Prices
+🧠 [Thinking Object](thinking_object.md)
 ## 🔮 Psychological Concepts
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -431,6 +453,8 @@
 🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Psychology
@@ -506,6 +530,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
+🧠 [Thinking Object](thinking_object.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Theory
 📖 [Critical Authority](criticism.md)
@@ -538,10 +564,8 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 
--------------------------------------
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
-🧠 [Thinking Object](thinking_object.md)
-## 🗳️ Politics
 📺️ [「 Future of Propaganda 」](propaganda.md)
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 🌾 [Enlightened Community](communalism.md)
@@ -549,31 +573,18 @@
 🦠 [Manifesto of Cellularism](cellularism.md)
 🏬 [Overtone Range](overtone_range.md)
 ⚖️ [Specificity of Stability](specificity-stability.md)
-## 📝 Poetry
 ☄️ [Convergence](convergence.md)
-
 🥀 [Perished Humanity](perished_humanity.md)
-## 🌹 Socialism
 🦁 [Heroic Betrayal](heroic_betrayal.md)
-## 🕯️ Theology
 🔮 [Incomprehensibility](incomprehensibility.md)
-
 🧮 [Numerical Glory](numericalglory.md)
-## 💭 Thoughts
 👊 [「 Shape of Force 」](shape_of_force.md)
-
 ⏳ [『 Illusions Always Die 』](illusions.md)
-
 🎭 [『 Mask Is Just A Costume 』](costume.md)
-
 🕊️ [Complete Liberation](liberation.md)
-
 🕵️ [Confidential Information](confidential.md)
-
 🦸 [Radical Change](true_heroism.md)
-## 🌌 Universe
 🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
-## ✍️ Writing
 🏛️ [「 Step By Step 」](step_by_step.md)
 
 ***
