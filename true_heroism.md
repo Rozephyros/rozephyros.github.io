@@ -9,4 +9,5 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](true_heroism-2.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](true_heroism-2.md) | 📚 [Thematic Catalogue](index_t.md)
+
