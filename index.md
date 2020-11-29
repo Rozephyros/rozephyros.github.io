@@ -3,6 +3,8 @@
 
 ## 🎓 Academics Disciplines
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🤔 Assumptions
 🎭 [Honest Deception](deception.md)
 
@@ -11,6 +13,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## ⚛️ Atoms
 🛠️ [Linear Metaphysics](linearity.md)
 ## 🧪 Branches of Science
@@ -27,12 +31,16 @@
 🎭 [Honest Deception](deception.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Cognitive Science
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💭 Consciousness
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -57,6 +65,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🌌 Existence
 🔮 [Idealistic Spirituality](mirage.md)
 
@@ -87,18 +97,26 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 💡 [Transfinite Radiation](radiation.md)
+## 🌈 Imagination
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👑 Imperialism
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## ☣️ Infection
 ☠️ [Eclipsing Pandemic](redplague.md)
 ## 🎓 Interdisciplinary Subfields
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🌐 International Relations
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+## 🔮 Intuition
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🇨🇳 Joseph Stalin
 💡 [Transfinite Radiation](radiation.md)
 ## ⚖️ Justification
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💬 Language
 🎭 [Honest Deception](deception.md)
 ## 💙 Life
@@ -113,6 +131,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 💡 Mental Process
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -125,10 +145,14 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Metaphysics of Mind
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💭 Mind
 🖥️ [Sixth Seal](sixth_seal.md)
 
@@ -137,6 +161,8 @@
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## ⬛ Nothing
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🔳 Object
@@ -149,10 +175,14 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌌 Phenomenology
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 📚 Philosophical Movements
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Philosophical Theories
 🎭 [Honest Deception](deception.md)
 
@@ -161,6 +191,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -179,6 +211,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🧪 Physical Science
 🛠️ [Linear Metaphysics](linearity.md)
 ## ⚛️ Physics
@@ -193,6 +227,8 @@
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Psychology
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌈 Reality
@@ -237,6 +273,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Theory
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💭 Thought
@@ -254,9 +292,10 @@
 ## 🗽 Western Philosophy
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🧙 [Vengeance × Resurrection](coronzon.md)
+
 -------------------------------------
 
-🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
