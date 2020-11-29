@@ -8,5 +8,5 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](speed_of_thought-2.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](speed_of_thought-2.md) | 📚 [Thematic Catalogue](index_t.md)
 
