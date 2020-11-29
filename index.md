@@ -137,6 +137,7 @@
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🌾 Economy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🔼 Emergence
 🎨 [Colorful Intelligence](colorful.md)
@@ -466,6 +467,7 @@
 🛠️ [Linear Metaphysics](linearity.md)
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🧭 Political Ideology
 🌾 [Enlightened Community](communalism.md)
