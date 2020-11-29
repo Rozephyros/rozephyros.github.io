@@ -32,5 +32,4 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](dragon_citadel.md) | 📚 [Thematic Catalogue](index_2t.md)
-
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](dragon_citadel.md) | 📚 [Тематический Каталог](index_2t.md)
