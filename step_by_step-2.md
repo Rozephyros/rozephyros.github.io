@@ -5,4 +5,4 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🗽 [English Version](step_by_step.md)
+##### ↩️ [Back](index.md) | 🗽 [English Version](step_by_step.md) | 📚 [Тематический Каталог](index_2t.md)
