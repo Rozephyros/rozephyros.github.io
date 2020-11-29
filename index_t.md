@@ -43,6 +43,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## ⚛️ Atoms
 🛠️ [Linear Metaphysics](linearity.md)
+## ✊ Authoritarianism
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📐 Axiomatic System
 ♟️ [Autologous Singularity](autologous.md)
 ## 😒 Bias
@@ -125,6 +127,8 @@
 📖 [Critical Authority](criticism.md)
 ## ❌ Contradiction
 🎭 [Honest Deception](deception.md)
+## 🗽 Democracy
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🕯️ Divine Concepts
 ♟️ [Autologous Singularity](autologous.md)
 ## 🧙 Divinity
@@ -191,6 +195,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 📝 Facts
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 🏛️ Forms of Government
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🤖 Future
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 😇 God
@@ -201,6 +207,8 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🏛️ Government
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
 ## 🤵 Human
@@ -228,9 +236,13 @@
 
 🏷️ [Price Balance](price_balance.md)
 
+⚖️ [Specificity of Stability](specificity-stability.md)
+
 💡 [Transfinite Radiation](radiation.md)
 ## 💡 Ideas
 ♟️ [Autologous Singularity](autologous.md)
+## 🧭 Ideology
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🙈 Ignorance
 🏃 [Independent Speed](acceleration.md)
 ## 🌈 Imagination
@@ -255,6 +267,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🌐 International Relations
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🔮 Intuition
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🇨🇳 Joseph Stalin
@@ -483,10 +497,16 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
+
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🧭 Political Ideology
 🌾 [Enlightened Community](communalism.md)
+
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 👓 Political Theories
 🌾 [Enlightened Community](communalism.md)
+
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🗳️ Politics
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
@@ -499,6 +519,8 @@
 👑 [Lead Crown](leadcrown.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
+
+⚖️ [Specificity of Stability](specificity-stability.md)
 
 💡 [Transfinite Radiation](radiation.md)
 ## 💼 Practical Philosophy
@@ -531,6 +553,8 @@
 🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 👏 Public Sphere
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🌈 Reality
 🎨 [Colorful Intelligence](colorful.md)
 
@@ -563,6 +587,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 ## 👁️ Self-Awareness
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 🧭 Social Ideology
+⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🏛️ Social Institutions
 👑 [Lead Crown](leadcrown.md)
 
@@ -651,8 +677,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-⚖️ [Specificity of Stability](specificity-stability.md)
 
 ☄️ [Convergence](convergence.md)
 
