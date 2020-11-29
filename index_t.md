@@ -147,8 +147,6 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 👷 Employment
 🦠 [Manifesto of Cellularism](cellularism.md)
-## ☯️ Ethics
-👑 [Lead Crown](leadcrown.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -164,6 +162,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🏬 [Overtone Range](overtone_range.md)
+
 🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -171,6 +171,10 @@
 🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## ☯️ Ethics
+👑 [Lead Crown](leadcrown.md)
+
+🏬 [Overtone Range](overtone_range.md)
 ## 🌌 Existence
 ⛓️ [Effective Independence](independence.md)
 
@@ -219,6 +223,8 @@
 👑 [Lead Crown](leadcrown.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
+
+🏬 [Overtone Range](overtone_range.md)
 
 🏷️ [Price Balance](price_balance.md)
 
@@ -314,6 +320,8 @@
 
 👑 [Lead Crown](leadcrown.md)
 
+🏬 [Overtone Range](overtone_range.md)
+
 🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -337,6 +345,8 @@
 🖥️ [Sixth Seal](sixth_seal.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 🕊️ Morality
+🏬 [Overtone Range](overtone_range.md)
 ## 🇩🇪 Nazi Germany
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
@@ -414,6 +424,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🏬 [Overtone Range](overtone_range.md)
+
 🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -447,6 +459,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🏬 [Overtone Range](overtone_range.md)
 
 🏷️ [Price Balance](price_balance.md)
 
@@ -491,6 +505,8 @@
 👑 [Lead Crown](leadcrown.md)
 ## 🏷️ Prices
 🧠 [Thinking Object](thinking_object.md)
+## 📈 Progress
+🏬 [Overtone Range](overtone_range.md)
 ## 📺️ Propaganda
 📺️ [「 Future of Propaganda 」](propaganda.md)
 ## 🔮 Psychological Concepts
@@ -549,10 +565,14 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🏛️ Social Institutions
 👑 [Lead Crown](leadcrown.md)
+
+🏬 [Overtone Range](overtone_range.md)
 ## 🌹 Socialism
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🤝 Society
 🦠 [Manifesto of Cellularism](cellularism.md)
+
+🏬 [Overtone Range](overtone_range.md)
 ## 👓 Sociological Theories
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🇨🇳 Soviet Union
@@ -631,8 +651,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-🏬 [Overtone Range](overtone_range.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
 
