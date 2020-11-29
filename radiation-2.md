@@ -19,5 +19,5 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](radiation.md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](radiation.md) | 📚 [Thematic Catalogue](index_2t.md)
 
