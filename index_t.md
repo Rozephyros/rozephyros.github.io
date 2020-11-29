@@ -640,7 +640,7 @@
 
 🥀 [Perished Humanity](perished_humanity.md)
 
-🦁 [Heroic Betrayal](heroic_betrayal.md)
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
 
