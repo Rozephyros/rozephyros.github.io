@@ -28,6 +28,8 @@
 
 🏃 [Independent Speed](acceleration.md)
 
+👑 [Lead Crown](leadcrown.md)
+
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -53,6 +55,8 @@
 🏃 [Independent Speed](acceleration.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 💸 Capitalism
+🌾 [Enlightened Community](communalism.md)
 ## ⛓️ Causality
 🎨 [Colorful Intelligence](colorful.md)
 ## ✝️ Christianity
@@ -133,6 +137,8 @@
 🏷️ [Price Balance](price_balance.md)
 ## ⚜️ Empires
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+## ☯️ Ethics
+👑 [Lead Crown](leadcrown.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -196,7 +202,11 @@
 
 🌌 [Cosmic Stability](stability.md)
 
+🌾 [Enlightened Community](communalism.md)
+
 🔮 [Idealistic Spirituality](mirage.md)
+
+👑 [Lead Crown](leadcrown.md)
 
 🏷️ [Price Balance](price_balance.md)
 
@@ -289,6 +299,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+👑 [Lead Crown](leadcrown.md)
 
 🏷️ [Price Balance](price_balance.md)
 
@@ -386,6 +398,8 @@
 
 🏃 [Independent Speed](acceleration.md)
 
+👑 [Lead Crown](leadcrown.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -416,6 +430,8 @@
 
 🥀 [Introduction](introduction.md)
 
+👑 [Lead Crown](leadcrown.md)
+
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -439,6 +455,10 @@
 🛠️ [Linear Metaphysics](linearity.md)
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+## 🧭 Political Ideology
+🌾 [Enlightened Community](communalism.md)
+## 👓 Political Theories
+🌾 [Enlightened Community](communalism.md)
 ## 🗳️ Politics
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
@@ -446,7 +466,13 @@
 
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
+🌾 [Enlightened Community](communalism.md)
+
+👑 [Lead Crown](leadcrown.md)
+
 💡 [Transfinite Radiation](radiation.md)
+## 💼 Practical Philosophy
+👑 [Lead Crown](leadcrown.md)
 ## 🏷️ Prices
 🧠 [Thinking Object](thinking_object.md)
 ## 📺️ Propaganda
@@ -505,6 +531,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 ## 👁️ Self-Awareness
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 🏛️ Social Institutions
+👑 [Lead Crown](leadcrown.md)
 ## 💜 Soul
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Space
@@ -559,6 +587,8 @@
 🎭 [Honest Deception](deception.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 👑 Tyrants
+👑 [Lead Crown](leadcrown.md)
 ## 🤔 Understanding
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💥 Weapons of Destruction
@@ -577,10 +607,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-🌾 [Enlightened Community](communalism.md)
-
-👑 [Lead Crown](leadcrown.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
 
