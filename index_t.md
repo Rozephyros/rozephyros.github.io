@@ -2,6 +2,8 @@
 <p align="justify">This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions. Every link is hidden the key to the incomprehensible reality.</p>
 
 ## 🎓 Academics Disciplines
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -20,6 +22,8 @@
 
 📖 [Critical Authority](criticism.md)
 ## 🤔 Assumptions
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -78,6 +82,8 @@
 ## 🧠 Cognition
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -96,6 +102,8 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Cognitive Science
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -160,6 +168,8 @@
 
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🔼 Emergence
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 🎨 [Colorful Intelligence](colorful.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -169,6 +179,8 @@
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 ♟️ [Autologous Singularity](autologous.md)
 
@@ -286,6 +298,8 @@
 ## ♾️ Infinity
 ♟️ [Autologous Singularity](autologous.md)
 ## 🎓 Interdisciplinary Subfields
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
@@ -346,6 +360,8 @@
 ## 💡 Mental Process
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Metaphilosophy
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -353,6 +369,10 @@
 📖 [Critical Authority](criticism.md)
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+⏳ [『 Illusions Always Die 』](illusions.md)
+
+🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 ♟️ [Autologous Singularity](autologous.md)
 
@@ -386,6 +406,8 @@
 ## 👓 Metaphysical Theories
 🎨 [Colorful Intelligence](colorful.md)
 ## 💡 Metaphysics of Mind
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 🎨 [Colorful Intelligence](colorful.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -436,6 +458,8 @@
 ## 👁️ Perception
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌌 Phenomenology
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 🎨 [Colorful Intelligence](colorful.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -448,6 +472,8 @@
 
 📖 [Critical Authority](criticism.md)
 ## 📚 Philosophical Movements
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -464,6 +490,10 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Philosophical Theories
+⏳ [『 Illusions Always Die 』](illusions.md)
+
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -496,6 +526,10 @@
 
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
+⏳ [『 Illusions Always Die 』](illusions.md)
+
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -520,6 +554,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🧮 [Numerical Glory](numericalglory.md)
+
 🏬 [Overtone Range](overtone_range.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -535,10 +571,14 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🧪 Physical Science
 🛠️ [Linear Metaphysics](linearity.md)
+
+🧮 [Numerical Glory](numericalglory.md)
 ## ⚛️ Physics
 ⛓️ [Effective Independence](independence.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
+
+🧮 [Numerical Glory](numericalglory.md)
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
@@ -587,6 +627,10 @@
 📺️ [「 Future of Propaganda 」](propaganda.md)
 ## 🔮 Psychological Concepts
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+👊 [「 Shape of Force 」](shape_of_force.md)
+
+🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🎨 [Colorful Intelligence](colorful.md)
 
@@ -682,6 +726,10 @@
 ## ⚗️ Theoretical Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
+⏳ [『 Illusions Always Die 』](illusions.md)
+
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -725,6 +773,8 @@
 👑 [Lead Crown](leadcrown.md)
 ## 🤔 Understanding
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🌌 Universe
+🧮 [Numerical Glory](numericalglory.md)
 ## 🇨🇳 Vladimir Lenin
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
 ## 💥 Weapons of Destruction
@@ -732,6 +782,8 @@
 ## 🏛️ Western History
 💡 [Transfinite Radiation](radiation.md)
 ## 🗽 Western Philosophy
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 ♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -745,14 +797,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-🧮 [Numerical Glory](numericalglory.md)
-
-👊 [「 Shape of Force 」](shape_of_force.md)
-
-⏳ [『 Illusions Always Die 』](illusions.md)
-
-🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🕊️ [Complete Liberation](liberation.md)
 
