@@ -567,24 +567,43 @@
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
 🔮 [Непостижимость](incomprehensibility-2.md)
+
 🧮 [Числовая Слава](numericalglory-2.md)
+
 🐉 [Цитадель Убийцы Драконов](dragon_citadel-2.md)
+
 👊 [「 Форма Силы 」](shape_of_force-2.md)
+
 ⏳ [『 Иллюзии Всегда Умирают 』](illusions-2.md)
+
 🎭 [『 Маска Лишь Костюм 』](illusions-2.md)
+
 🕊️ [Высшее Освобождение](liberation-2.md)
+
 🕵️ [Конфиденциальная Информация](confidential-2.md)
+
 🦸 [Радикальные Изменения](true_heroism-2.md)
+
 📺️ [「 Будущее Пропаганды 」](propaganda-2.md)
+
 💔 [「 Разрыв Доверия 」](gap_of_trust-2.md)
+
 🦠 [Манифест Селлуларизма](cellularism-2.md)
+
 🏬 [Обертонный Диапазон](overtone_range-2.md)
+
 🌾 [Просвещённое Сообщество](communalism.md)
+
 👑 [Свинцовая Корона](leadcrown-2.md)
+
 ⚖️ [Специфика Устойчивости](specificity-stability-2.md)
+
 ☄️ [Схождение](convergence-2.md)
+
 🥀 [Человечество Погибло](perished_humanity-2.md)
+
 🏛️ [「 Шаг За Шагом 」](step_by_step-2.md)
+
 🦁 [Героическое Предательство](heroic_betrayal-2.md)
 
 ***
