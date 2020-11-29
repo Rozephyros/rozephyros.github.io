@@ -188,6 +188,8 @@
 ## 💼 Human Activity
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
+💔 [「 Gap of Trust 」](gap_of_trust.md)
+
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
@@ -440,6 +442,8 @@
 ## 🗳️ Politics
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
+💔 [「 Gap of Trust 」](gap_of_trust.md)
+
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 💡 [Transfinite Radiation](radiation.md)
@@ -573,8 +577,6 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-💔 [「 Gap of Trust 」](gap_of_trust.md)
 
 🌾 [Enlightened Community](communalism.md)
 
