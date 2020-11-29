@@ -1,4 +1,4 @@
-# 🦁 Heroic Betrayal 🦁
+# 🗡️ Heroic Betrayal 🗡️
 
 <p align="justify">Love for a country is called patriotism, but the elite always wants to replace love with loyalty to a certain state regime. Can we tell people that the servants of the people have no right to be faithful? Would it be better if the citizens didn't think so? Elites fear what will happen when people become free and independent. Architects want you to have faith in the systems designed. The prophets do not want you to think for yourself or doubt the legends.</p>
 
