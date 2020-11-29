@@ -8,5 +8,4 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](introduction.md)
-
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](introduction.md) | 📚 [Thematic Catalogue](index_2t.md)
