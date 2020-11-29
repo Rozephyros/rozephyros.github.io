@@ -4,6 +4,8 @@
 ## 🎓 Academics Disciplines
 ♟️ [Autologous Singularity](autologous.md)
 
+🎨 [Colorful Intelligence](colorful.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -11,6 +13,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 ## 🤔 Assumptions
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -29,6 +33,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## ⛓️ Causality
+🎨 [Colorful Intelligence](colorful.md)
 ## ✝️ Christianity
 ☠️ [Eclipsing Pandemic](redplague.md)
 ## 🕊️ Christian Salvation
@@ -40,6 +46,8 @@
 
 ♟️ [Autologous Singularity](autologous.md)
 
+🎨 [Colorful Intelligence](colorful.md)
+
 🎭 [Honest Deception](deception.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -47,6 +55,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Cognitive Science
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -73,12 +83,16 @@
 😇 [Rejected Holiness](holiness.md)
 ## 📈 Economy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+## 🔼 Emergence
+🎨 [Colorful Intelligence](colorful.md)
 ## ⚜️ Empires
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -132,6 +146,8 @@
 ## ♾️ Infinity
 ♟️ [Autologous Singularity](autologous.md)
 ## 🎓 Interdisciplinary Subfields
+🎨 [Colorful Intelligence](colorful.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -143,6 +159,8 @@
 💡 [Transfinite Radiation](radiation.md)
 ## ⚖️ Justification
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -169,10 +187,14 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Metaphilosophy
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -185,7 +207,11 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 👓 Metaphysical Theories
+🎨 [Colorful Intelligence](colorful.md)
 ## 💡 Metaphysics of Mind
+🎨 [Colorful Intelligence](colorful.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -198,6 +224,8 @@
 ## 🇩🇪 Nazi Germany
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
+🎨 [Colorful Intelligence](colorful.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -212,6 +240,8 @@
 ## 👁️ Perception
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌌 Phenomenology
+🎨 [Colorful Intelligence](colorful.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -220,6 +250,8 @@
 ## 📚 Philosophical Movements
 ♟️ [Autologous Singularity](autologous.md)
 
+🎨 [Colorful Intelligence](colorful.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -227,6 +259,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Philosophical Theories
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -243,6 +277,8 @@
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -274,12 +310,16 @@
 ## 🔮 Psychological Concepts
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
+🎨 [Colorful Intelligence](colorful.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Psychology
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌈 Reality
+🎨 [Colorful Intelligence](colorful.md)
+
 🔮 [Idealistic Spirituality](mirage.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -299,6 +339,8 @@
 💡 [Transfinite Radiation](radiation.md)
 ## 🧪 Science
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
 ## 👁️ Self-Awareness
@@ -321,6 +363,8 @@
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 ♟️ [Autologous Singularity](autologous.md)
+
+🎨 [Colorful Intelligence](colorful.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -348,13 +392,13 @@
 ## 🗽 Western Philosophy
 ♟️ [Autologous Singularity](autologous.md)
 
+🎨 [Colorful Intelligence](colorful.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 -------------------------------------
-
-🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
 
