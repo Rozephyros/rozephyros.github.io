@@ -21,6 +21,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+## 🕵️ Assassination of John Kennedy
+🕵️ [Confidential Information](confidential.md)
 ## 🤔 Assumptions
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
@@ -135,6 +137,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+## ⚔️ Conflicts
+🏛️ [「 Step By Step 」](step_by_step.md)
 ## 💭 Consciousness
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -149,6 +153,8 @@
 🎭 [Honest Deception](deception.md)
 ## 🗽 Democracy
 ⚖️ [Specificity of Stability](specificity-stability.md)
+## 🎭 Divine Comedy
+🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
 ## 🕯️ Divine Concepts
 ♟️ [Autologous Singularity](autologous.md)
 ## 🧙 Divinity
@@ -161,6 +167,8 @@
 🔮 [Incomprehensibility](incomprehensibility.md)
 
 😇 [Rejected Holiness](holiness.md)
+## 🐉 Dragons
+🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
 ## 📈 Economics
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🌾 Economy
@@ -206,6 +214,8 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## ☯️ Ethics
+🕊️ [Complete Liberation](liberation.md)
+
 👑 [Lead Crown](leadcrown.md)
 
 🏬 [Overtone Range](overtone_range.md)
@@ -378,6 +388,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+🕊️ [Complete Liberation](liberation.md)
+
 📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
@@ -410,6 +422,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+🕊️ [Complete Liberation](liberation.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -417,6 +431,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🎖️ Military Operaions
+🏛️ [「 Step By Step 」](step_by_step.md)
 ## 💭 Mind
 🖥️ [Sixth Seal](sixth_seal.md)
 
@@ -498,6 +514,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+🕊️ [Complete Liberation](liberation.md)
+
 📖 [Critical Authority](criticism.md)
 
 🎭 [Honest Deception](deception.md)
@@ -534,6 +552,8 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+🕊️ [Complete Liberation](liberation.md)
+
 📖 [Critical Authority](criticism.md)
 
 ⛓️ [Effective Independence](independence.md)
@@ -559,6 +579,8 @@
 🏬 [Overtone Range](overtone_range.md)
 
 🏷️ [Price Balance](price_balance.md)
+
+🦸 [Radical Change](true_heroism.md)
 
 😇 [Rejected Holiness](holiness.md)
 
@@ -633,6 +655,8 @@
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+🕊️ [Complete Liberation](liberation.md)
 
 📖 [Critical Authority](criticism.md)
 
@@ -777,6 +801,8 @@
 🧮 [Numerical Glory](numericalglory.md)
 ## 🇨🇳 Vladimir Lenin
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
+## ⚔️ Wars
+🏛️ [「 Step By Step 」](step_by_step.md)
 ## 💥 Weapons of Destruction
 ⛓️ [Effective Independence](independence.md)
 ## 🏛️ Western History
@@ -795,18 +821,6 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
-
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-🕊️ [Complete Liberation](liberation.md)
-
-🕵️ [Confidential Information](confidential.md)
-
-🦸 [Radical Change](true_heroism.md)
-
-🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
-
-🏛️ [「 Step By Step 」](step_by_step.md)
 
 ***
 
