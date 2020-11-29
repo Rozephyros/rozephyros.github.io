@@ -444,7 +444,6 @@
 
 📖 [Critical Authority](criticism.md)
 
-
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
