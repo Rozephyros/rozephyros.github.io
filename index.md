@@ -8,6 +8,8 @@
 
 📖 [Critical Authority](criticism.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -29,6 +31,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -68,6 +72,8 @@
 
 🏃 [Independent Speed](acceleration.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -84,6 +90,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -95,6 +103,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🏷️ [Price Balance](price_balance.md)
 ## 📖 Contemporary Philosophy
 📖 [Critical Authority](criticism.md)
 ## ❌ Contradiction
@@ -111,6 +121,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🔼 Emergence
 🎨 [Colorful Intelligence](colorful.md)
+
+🏷️ [Price Balance](price_balance.md)
 ## ⚜️ Empires
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🎓 Epistemology
@@ -127,6 +139,8 @@
 🏃 [Independent Speed](acceleration.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -168,6 +182,8 @@
 
 🔮 [Idealistic Spirituality](mirage.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 💡 [Transfinite Radiation](radiation.md)
 ## 😇 Ideas
 ♟️ [Autologous Singularity](autologous.md)
@@ -187,6 +203,8 @@
 📖 [Critical Authority](criticism.md)
 
 🏃 [Independent Speed](acceleration.md)
+
+🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -256,6 +274,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -265,6 +285,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -278,9 +300,13 @@
 ## 🔬 Neuropsychological Assessment
 🎨 [Colorful Intelligence](colorful.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🧠 Neuropsychology
+🏷️ [Price Balance](price_balance.md)
 ## ⬛ Nothing
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## ⚡ Nuclear Energy
@@ -304,6 +330,8 @@
 ## 🌌 Phenomenology
 🎨 [Colorful Intelligence](colorful.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -319,6 +347,8 @@
 📖 [Critical Authority](criticism.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -337,6 +367,8 @@
 🏃 [Independent Speed](acceleration.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -366,6 +398,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 😇 [Rejected Holiness](holiness.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -394,11 +428,15 @@
 
 🏃 [Independent Speed](acceleration.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Psychology
 🏃 [Independent Speed](acceleration.md)
+
+🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌈 Reality
@@ -464,6 +502,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 
+🏷️ [Price Balance](price_balance.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -500,8 +540,6 @@
 
 -------------------------------------
 
-
-🏷️ [Price Balance](price_balance.md)
 🧠 [Thinking Object](thinking_object.md)
 ## 🗳️ Politics
 📺️ [「 Future of Propaganda 」](propaganda.md)
