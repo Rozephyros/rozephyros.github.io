@@ -7,4 +7,4 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](stability.md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](stability.md) | 📚 [Thematic Catalogue](index_2t.md)
