@@ -664,4 +664,4 @@
 
 ***
 
-##### 🌻 [Русская Версия](index-2.md)| 📋 [General Index](index.md)
+##### 🌻 [Русская Версия](index-2.md) | 📋 [General Index](index.md)
