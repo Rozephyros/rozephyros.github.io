@@ -12,5 +12,5 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](acceleration-2.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](acceleration-2.md) | 📚 [Thematic Catalogue](index_t.md)
 
