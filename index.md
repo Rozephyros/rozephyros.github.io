@@ -197,7 +197,7 @@
 🏷️ [Price Balance](price_balance.md)
 
 💡 [Transfinite Radiation](radiation.md)
-## 😇 Ideas
+## 💡 Ideas
 ♟️ [Autologous Singularity](autologous.md)
 ## 🙈 Ignorance
 🏃 [Independent Speed](acceleration.md)
