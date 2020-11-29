@@ -1,14 +1,20 @@
 # 🌹 Rozephyros 🌹
 <p align="justify">This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions. Every link is hidden the key to the incomprehensible reality.</p>
 
+## 🎓 Academics Disciplines
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🤔 Assumptions
 🎭 [Honest Deception](deception.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚛️ Atoms
 🛠️ [Linear Metaphysics](linearity.md)
+## 🧪 Branches of Science
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## ✝️ Christianity
 ☠️ [Eclipsing Pandemic](redplague.md)
 ## 🕊️ Christian Salvation
@@ -19,10 +25,14 @@
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 🎭 [Honest Deception](deception.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💡 Cognitive Science
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💭 Consciousness
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -41,12 +51,16 @@
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌌 Existence
 🛠️ [Linear Metaphysics](linearity.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💡 Experience
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 📝 Facts
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🤖 Future
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 😇 God
@@ -67,16 +81,22 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## ☣️ Infection
 ☠️ [Eclipsing Pandemic](redplague.md)
+## 🎓 Interdisciplinary Subfields
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌐 International Relations
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🇨🇳 Joseph Stalin
 💡 [Transfinite Radiation](radiation.md)
+## ⚖️ Justification
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💬 Language
 🎭 [Honest Deception](deception.md)
 ## 💙 Life
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🦉 Logic
 🎭 [Honest Deception](deception.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚛️ Matter
 🛠️ [Linear Metaphysics](linearity.md)
 ## 🛠️ Mechanics
@@ -91,28 +111,42 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💡 Metaphysics of Mind
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💭 Mind
 🖥️ [Sixth Seal](sixth_seal.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🇩🇪 Nazi Germany
 💡 [Transfinite Radiation](radiation.md)
+## 🔬 Neuropsychological Assessment
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⬛ Nothing
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🔳 Object
+🌌 [Revolution of The Universe](universal_revolution.md)
+## ⚖️ Objectivity
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⚡ Omnipotence
 🎭 [Honest Deception](deception.md)
 ## 👁️ Perception
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 🌌 Phenomenology
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 📚 Philosophical Movements
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 👓 Philosophical Theories
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🗿 Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -125,6 +159,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 😇 [Rejected Holiness](holiness.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🧪 Physical Science
@@ -139,8 +175,14 @@
 💡 [Transfinite Radiation](radiation.md)
 ## 🔮 Psychological Concepts
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
+## 💡 Psychology
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌈 Reality
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🤔 Reasoning
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛪ Religion
 ☠️ [Eclipsing Pandemic](redplague.md)
 ## 🧿 Religious Experience
@@ -155,6 +197,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Space
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 😅 Subjectivity
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💳 Tax
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🕯️ Theology
@@ -165,6 +209,8 @@
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
 ## 👓 Theory
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💭 Thought
@@ -182,9 +228,11 @@
 ## 🗽 Western Philosophy
 ⚫️ [Liquid Obsidian](obsidian.md)
 
-
 -------------------------------------
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+
+
 
 
 
