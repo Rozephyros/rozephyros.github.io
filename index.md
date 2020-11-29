@@ -90,6 +90,8 @@
 ## 🤵 Human
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💼 Human Activity
+🚘️ [「 Speed of Thought 」](speed_of_thought.md)
+
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 🌌 [Cosmic Stability](stability.md)
@@ -119,6 +121,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💬 Language
 🎭 [Honest Deception](deception.md)
+## 👮 Law
+🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 ## 💙 Life
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🦉 Logic
@@ -195,6 +199,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -297,7 +303,6 @@
 -------------------------------------
 
 
-🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
 ♟️ [Autologous Singularity](autologous.md)
 
