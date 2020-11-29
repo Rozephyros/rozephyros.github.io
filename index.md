@@ -2,10 +2,16 @@
 <p align="justify">This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions. Every link is hidden the key to the incomprehensible reality.</p>
 
 ## 🎓 Academics Disciplines
+♟️ [Autologous Singularity](autologous.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🗯️ Argumentation
+♟️ [Autologous Singularity](autologous.md)
 ## 🤔 Assumptions
+♟️ [Autologous Singularity](autologous.md)
+
 🎭 [Honest Deception](deception.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
@@ -17,7 +23,11 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## ⚛️ Atoms
 🛠️ [Linear Metaphysics](linearity.md)
+## 📐 Axiomatic System
+♟️ [Autologous Singularity](autologous.md)
 ## 🧪 Branches of Science
+♟️ [Autologous Singularity](autologous.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ✝️ Christianity
 ☠️ [Eclipsing Pandemic](redplague.md)
@@ -28,12 +38,16 @@
 ## 🧠 Cognition
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
+♟️ [Autologous Singularity](autologous.md)
+
 🎭 [Honest Deception](deception.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Cognitive Science
+♟️ [Autologous Singularity](autologous.md)
+
 🎭 [Honest Deception](deception.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -41,12 +55,16 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🎨 Concepts
+♟️ [Autologous Singularity](autologous.md)
 ## 💭 Consciousness
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## ❌ Contradiction
 🎭 [Honest Deception](deception.md)
+## 🕯️ Divine Concepts
+♟️ [Autologous Singularity](autologous.md)
 ## 🧙 Divinity
 🔮 [Idealistic Spirituality](mirage.md)
 ## 🙌 Doctrine of Religion
@@ -59,6 +77,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+♟️ [Autologous Singularity](autologous.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -80,6 +100,8 @@
 ## 🤖 Future
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 😇 God
+♟️ [Autologous Singularity](autologous.md)
+
 🎭 [Honest Deception](deception.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
@@ -99,12 +121,16 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 💡 [Transfinite Radiation](radiation.md)
+## 😇 Ideas
+♟️ [Autologous Singularity](autologous.md)
 ## 🌈 Imagination
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👑 Imperialism
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## ☣️ Infection
 ☠️ [Eclipsing Pandemic](redplague.md)
+## ♾️ Infinity
+♟️ [Autologous Singularity](autologous.md)
 ## 🎓 Interdisciplinary Subfields
 🌌 [Revolution of The Universe](universal_revolution.md)
 
@@ -116,6 +142,8 @@
 ## 🇨🇳 Joseph Stalin
 💡 [Transfinite Radiation](radiation.md)
 ## ⚖️ Justification
+♟️ [Autologous Singularity](autologous.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
@@ -126,6 +154,8 @@
 ## 💙 Life
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 🦉 Logic
+♟️ [Autologous Singularity](autologous.md)
+
 🎭 [Honest Deception](deception.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -137,8 +167,12 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💡 Mental Process
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🗿 Metaphilosophy
+♟️ [Autologous Singularity](autologous.md)
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+♟️ [Autologous Singularity](autologous.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -181,13 +215,19 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🔬 Philosophical Methodology
+♟️ [Autologous Singularity](autologous.md)
 ## 📚 Philosophical Movements
+♟️ [Autologous Singularity](autologous.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 👓 Philosophical Theories
+♟️ [Autologous Singularity](autologous.md)
+
 🎭 [Honest Deception](deception.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
@@ -201,6 +241,8 @@
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
+
+♟️ [Autologous Singularity](autologous.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -241,7 +283,11 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+## ⚖️ Reason
+♟️ [Autologous Singularity](autologous.md)
 ## 🤔 Reasoning
+♟️ [Autologous Singularity](autologous.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛪ Religion
 ☠️ [Eclipsing Pandemic](redplague.md)
@@ -252,6 +298,8 @@
 ## 💖 Romanticism
 💡 [Transfinite Radiation](radiation.md)
 ## 🧪 Science
+♟️ [Autologous Singularity](autologous.md)
+
 🛠️ [Linear Metaphysics](linearity.md)
 ## 👁️ Self-Awareness
 🌌 [Revolution of The Universe](universal_revolution.md)
@@ -271,6 +319,8 @@
 😇 [Rejected Holiness](holiness.md)
 ## ⚗️ Theoretical Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+♟️ [Autologous Singularity](autologous.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -296,15 +346,13 @@
 ## 🏛️ Western History
 💡 [Transfinite Radiation](radiation.md)
 ## 🗽 Western Philosophy
+♟️ [Autologous Singularity](autologous.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 
 -------------------------------------
-
-
-
-♟️ [Autologous Singularity](autologous.md)
 
 🎨 [Colorful Intelligence](colorful.md)
 
