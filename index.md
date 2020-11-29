@@ -567,24 +567,43 @@
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
 📺️ [「 Future of Propaganda 」](propaganda.md)
+
 💔 [「 Gap of Trust 」](gap_of_trust.md)
+
 🌾 [Enlightened Community](communalism.md)
+
 👑 [Lead Crown](leadcrown.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
+
 🏬 [Overtone Range](overtone_range.md)
+
 ⚖️ [Specificity of Stability](specificity-stability.md)
+
 ☄️ [Convergence](convergence.md)
+
 🥀 [Perished Humanity](perished_humanity.md)
+
 🦁 [Heroic Betrayal](heroic_betrayal.md)
+
 🔮 [Incomprehensibility](incomprehensibility.md)
+
 🧮 [Numerical Glory](numericalglory.md)
+
 👊 [「 Shape of Force 」](shape_of_force.md)
+
 ⏳ [『 Illusions Always Die 』](illusions.md)
+
 🎭 [『 Mask Is Just A Costume 』](costume.md)
+
 🕊️ [Complete Liberation](liberation.md)
+
 🕵️ [Confidential Information](confidential.md)
+
 🦸 [Radical Change](true_heroism.md)
+
 🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
+
 🏛️ [「 Step By Step 」](step_by_step.md)
 
 ***
