@@ -151,6 +151,8 @@
 📖 [Critical Authority](criticism.md)
 ## ❌ Contradiction
 🎭 [Honest Deception](deception.md)
+## 🌈 Creativity
+🔪 [『 No Excuse For Murder 』](murder.md)
 ## 🗽 Democracy
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🎭 Divine Comedy
@@ -269,6 +271,8 @@
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+
+🔪 [『 No Excuse For Murder 』](murder.md)
 
 🌌 [Cosmic Stability](stability.md)
 
@@ -439,6 +443,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🕊️ Morality
 🏬 [Overtone Range](overtone_range.md)
+## 🔪 Murder
+🔪 [『 No Excuse For Murder 』](murder.md)
 ## 🏴 Nazi Germany
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
@@ -547,6 +553,8 @@
 ⏳ [『 Illusions Always Die 』](illusions.md)
 
 🎭 [『 Mask Is Just A Costume 』](costume.md)
+
+🔪 [『 No Excuse For Murder 』](murder.md)
 
 ♟️ [Autologous Singularity](autologous.md)
 
@@ -821,6 +829,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 💪 Will To Power
+🔪 [『 No Excuse For Murder 』](murder.md)
 
 ***
 
