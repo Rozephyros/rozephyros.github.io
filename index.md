@@ -5,6 +5,8 @@
 🥀 [Introduction](introduction.md)
 ## 😒 Criticism
 😇 [Rejected Holiness](holiness.md)
+## ☀️ Doctrine
+🔪 [『 No Excuse For Murder 』](murder.md)
 ## 💥 Eschatology
 ☠️ [Eclipsing Pandemic](redplague.md)
 
