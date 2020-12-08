@@ -501,6 +501,8 @@
 ⛓️ [Effective Independence](independence.md)
 ## 🔬 Nuclear Technology
 ⛓️ [Effective Independence](independence.md)
+## ☢️ Nuclear War
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## 🗡️ Nuclear Weapons
 ⛓️ [Effective Independence](independence.md)
 ## 🔳 Object
