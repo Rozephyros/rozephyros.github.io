@@ -400,6 +400,8 @@
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
+⭐ [「 First Star 」](first_star.md)
+
 ⏳ [『 Illusions Always Die 』](illusions.md)
 
 🎭 [『 Mask Is Just A Costume 』](costume.md)
@@ -464,6 +466,8 @@
 ## 🔪 Murder
 🔪 [『 No Excuse For Murder 』](murder.md)
 ## 🏴 Nazi Germany
+⭐ [「 First Star 」](first_star.md)
+## 💊 Neurology
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
 ⭐ [「 First Star 」](first_star.md)
