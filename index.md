@@ -3,6 +3,8 @@
 
 ## 📚 General
 🥀 [Introduction](introduction.md)
+## 🎨 Art
+⭐ [「 First Star 」](first_star-2.md)
 ## 😒 Criticism
 😇 [Rejected Holiness](holiness.md)
 ## ☀️ Doctrine
