@@ -145,6 +145,8 @@
 📖 [Critical Authority](criticism.md)
 ## ⚔️ Conflicts
 🏛️ [「 Step By Step 」](step_by_step.md)
+
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## 💭 Consciousness
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -282,6 +284,8 @@
 
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
+👁️[「 Vision of Defence 」](vision_of_defence.md)
+
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 🔪 [『 No Excuse For Murder 』](murder.md)
@@ -343,6 +347,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
+## 💂 International Security
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## 🔮 Intuition
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🇨🇳 Joseph Stalin
@@ -455,7 +461,11 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
-## 🎖️ Military Operaions
+## 💂 Military
+👁️[「 Vision of Defence 」](vision_of_defence.md)
+## ⚔️ Military Science
+👁️[「 Vision of Defence 」](vision_of_defence.md)
+## 🎖️ Military Operations
 🏛️ [「 Step By Step 」](step_by_step.md)
 ## 💭 Mind
 🖥️ [Sixth Seal](sixth_seal.md)
@@ -664,6 +674,8 @@
 
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
+👁️[「 Vision of Defence 」](vision_of_defence.md)
+
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
 🌾 [Enlightened Community](communalism.md)
@@ -751,6 +763,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
+## 🗝️ Security
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## 👁️ Self-Awareness
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🧭 Social Ideology
@@ -845,8 +859,12 @@
 🧮 [Numerical Glory](numericalglory.md)
 ## 🇨🇳 Vladimir Lenin
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
+## 💥 Warfare
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## ⚔️ Wars
 🏛️ [「 Step By Step 」](step_by_step.md)
+
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## 💥 Weapons of Destruction
 ⛓️ [Effective Independence](independence.md)
 ## 🏛️ Western History
@@ -867,6 +885,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💪 Will To Power
 🔪 [『 No Excuse For Murder 』](murder.md)
+## 💥 World War III
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 
 ***
 
