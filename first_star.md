@@ -1,4 +1,4 @@
-# ⭐ First Star ⭐
+# ⭐ 「 First Star 」 ⭐
 
 <p align="justify">Obvious double standards. Where naive connoisseurs talk only about the insane beauty of the picture, veteran critics note that the assessment depends on the consciousness of the object, the prevailing tastes, the way of thinking, and the habits of the viewer. You are a critic of your life and must judge yourself objectively. When an avid critic gives a picture five stars out of five, the layman cannot say that the picture received six or four.</p>
 
