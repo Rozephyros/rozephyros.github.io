@@ -59,6 +59,8 @@
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📐 Axiomatic System
 ♟️ [Autologous Singularity](autologous.md)
+## 🔬 Behavioural Science
+⭐ [「 First Star 」](first_star.md)
 ## 😒 Bias
 🏃 [Independent Speed](acceleration.md)
 ## 🧪 Branches of Science
@@ -84,6 +86,8 @@
 ## 🧠 Cognition
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
+⭐ [「 First Star 」](first_star.md)
+
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 ♟️ [Autologous Singularity](autologous.md)
@@ -104,6 +108,8 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Cognitive Science
+⭐ [「 First Star 」](first_star.md)
+
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 ♟️ [Autologous Singularity](autologous.md)
@@ -153,6 +159,8 @@
 🎭 [Honest Deception](deception.md)
 ## 🌈 Creativity
 🔪 [『 No Excuse For Murder 』](murder.md)
+## 🖼️ Culture
+⭐ [「 First Star 」](first_star.md)
 ## 🗽 Democracy
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🎭 Divine Comedy
@@ -189,6 +197,8 @@
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+⭐ [「 First Star 」](first_star.md)
 
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
@@ -264,6 +274,8 @@
 ## 🤵 Human
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💼 Human Activity
+⭐ [「 First Star 」](first_star.md)
+
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
 💔 [「 Gap of Trust 」](gap_of_trust.md)
@@ -312,6 +324,8 @@
 ## ♾️ Infinity
 ♟️ [Autologous Singularity](autologous.md)
 ## 🎓 Interdisciplinary Subfields
+⭐ [「 First Star 」](first_star.md)
+
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -372,6 +386,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💡 Mental Process
+⭐ [「 First Star 」](first_star.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Metaphilosophy
 🎭 [『 Mask Is Just A Costume 』](costume.md)
@@ -422,6 +438,8 @@
 ## 👓 Metaphysical Theories
 🎨 [Colorful Intelligence](colorful.md)
 ## 💡 Metaphysics of Mind
+⭐ [「 First Star 」](first_star.md)
+
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -448,6 +466,8 @@
 ## 🏴 Nazi Germany
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
+⭐ [「 First Star 」](first_star.md)
+
 🎨 [Colorful Intelligence](colorful.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -456,6 +476,8 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🧠 Neuropsychology
+⭐ [「 First Star 」](first_star.md)
+
 🏷️ [Price Balance](price_balance.md)
 ## ⬛ Nothing
 ⚫️ [Liquid Obsidian](obsidian.md)
@@ -480,6 +502,8 @@
 ## 👁️ Perception
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 🌌 Phenomenology
+⭐ [「 First Star 」](first_star.md)
+
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -547,6 +571,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🗿 Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+⭐ [「 First Star 」](first_star.md)
 
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
@@ -658,6 +684,8 @@
 ## 🔮 Psychological Concepts
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
+⭐ [「 First Star 」](first_star.md)
+
 👊 [「 Shape of Force 」](shape_of_force.md)
 
 🎭 [『 Mask Is Just A Costume 』](costume.md)
@@ -678,6 +706,8 @@
 
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 💡 Psychology
+⭐ [「 First Star 」](first_star.md)
+
 🏃 [Independent Speed](acceleration.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -745,6 +775,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🧙 Spirituality
 🔮 [Idealistic Spirituality](mirage.md)
+## 😄 Subjective Expierence
+⭐ [「 First Star 」](first_star.md)
 ## 😅 Subjectivity
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💳 Tax
