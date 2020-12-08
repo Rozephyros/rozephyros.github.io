@@ -16,6 +16,8 @@
 ## 🕯️ Esoterics
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌐 Geopolitics
+👁️[「 Vision of Defence 」](vision_of_defence.md)
+
 🌌 [Cosmic Stability](stability.md)
 ## 🏺 History
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
