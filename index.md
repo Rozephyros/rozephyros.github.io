@@ -54,6 +54,8 @@
 
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
+📉 [Downward Spiral](downward_spiral.md)
+
 🌾 [Enlightened Community](communalism.md)
 
 👑 [Lead Crown](leadcrown.md)
