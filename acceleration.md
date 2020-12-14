@@ -1,4 +1,4 @@
-# 🏃 Independent Speed 🏃
+# 🏃 ~ 🏃
 
 <p align="justify">A person running at full speed may be faster than a person running at half speed, but he is not slower than anyone running at a normal pace. This does not mean that speed is subjective. On the contrary, the essence of speed is independent of bystanders. On the other hand, speed estimates are not observer-independent since each test is performed by an observer and reflects only subjective preferences.</p>
 
