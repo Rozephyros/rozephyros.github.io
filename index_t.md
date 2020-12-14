@@ -182,6 +182,8 @@
 ## 🐉 Dragons
 🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
 ## 📈 Economics
+📉 [Downward Spiral](downward_spiral.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🌾 Economy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
@@ -197,6 +199,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 👷 Employment
 🦠 [Manifesto of Cellularism](cellularism.md)
+## 🕴️ Entrepreneurship
+📉 [Downward Spiral](downward_spiral.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -268,6 +272,8 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🏛️ Government
+📉 [Downward Spiral](downward_spiral.md)
+
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
@@ -291,6 +297,8 @@
 🔪 [『 No Excuse For Murder 』](murder.md)
 
 🌌 [Cosmic Stability](stability.md)
+
+📉 [Downward Spiral](downward_spiral.md)
 
 🌾 [Enlightened Community](communalism.md)
 
@@ -513,6 +521,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧠 [Thinking Object](thinking_object.md)
+## 🧐 Oligarchy
+📉 [Downward Spiral](downward_spiral.md)
 ## ⚡ Omnipotence
 🎭 [Honest Deception](deception.md)
 ## 👁️ Perception
@@ -654,6 +664,8 @@
 ## 📋 Policy
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
+📉 [Downward Spiral](downward_spiral.md)
+
 🦠 [Manifesto of Cellularism](cellularism.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
@@ -664,6 +676,8 @@
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📊 Political Science
+📉 [Downward Spiral](downward_spiral.md)
+
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 👓 Political Theories
 🌾 [Enlightened Community](communalism.md)
@@ -679,6 +693,8 @@
 👁️[「 Vision of Defence 」](vision_of_defence.md)
 
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+
+📉 [Downward Spiral](downward_spiral.md)
 
 🌾 [Enlightened Community](communalism.md)
 
@@ -759,6 +775,10 @@
 😇 [Rejected Holiness](holiness.md)
 ## 💖 Romanticism
 💡 [Transfinite Radiation](radiation.md)
+## 🇷🇺 Russia
+📉 [Downward Spiral](downward_spiral.md)
+## 🇺🇦 Ukraine
+📉 [Downward Spiral](downward_spiral.md)
 ## 🧪 Science
 ♟️ [Autologous Singularity](autologous.md)
 
