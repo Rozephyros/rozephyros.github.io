@@ -748,6 +748,8 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 👏 Public Sphere
+📉 [Downward Spiral](downward_spiral.md)
+
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🌈 Reality
 🎨 [Colorful Intelligence](colorful.md)
