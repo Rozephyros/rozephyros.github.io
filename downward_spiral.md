@@ -10,4 +10,4 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](downward_spiral.md) | 📚 [Тематический Каталог](index_2t.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](downward_spiral-2.md) | 📚 [Thematic Catalogue](index_t.md)
