@@ -277,6 +277,8 @@
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
+## 🏥 Health
+👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
 ## 🤵 Human
@@ -399,6 +401,8 @@
 🛠️ [Linear Metaphysics](linearity.md)
 
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 💊 Medicine
+👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
 ## 💡 Mental Process
 ⭐ [「 First Star 」](first_star.md)
 
@@ -606,6 +610,8 @@
 
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
+👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+
 🔪 [『 No Excuse For Murder 』](murder.md)
 
 ♟️ [Autologous Singularity](autologous.md)
@@ -779,8 +785,6 @@
 💡 [Transfinite Radiation](radiation.md)
 ## 🇷🇺 Russia
 📉 [Downward Spiral](downward_spiral.md)
-## 🇺🇦 Ukraine
-📉 [Downward Spiral](downward_spiral.md)
 ## 🧪 Science
 ♟️ [Autologous Singularity](autologous.md)
 
@@ -821,6 +825,8 @@
 ⭐ [「 First Star 」](first_star.md)
 ## 😅 Subjectivity
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 😖 Suffering
+👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
 ## 💳 Tax
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🕯️ Theology
@@ -877,6 +883,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 👑 Tyrants
 👑 [Lead Crown](leadcrown.md)
+## 🇺🇦 Ukraine
+📉 [Downward Spiral](downward_spiral.md)
 ## 🤔 Understanding
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Universe
