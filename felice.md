@@ -6,7 +6,7 @@
 
 <p align="justify">The most important decision is to give the person life. The torment and suffering of each person begin with someone else's decision. A single event determines whether a person will live and what form his life will have. However, those responsible for all the consequences use their absolute power to pretend that they have nothing to do with them. But the day will come when irresponsible souls will pay for the original crimes. Those who are their victims are not flawless. Each of them can make a mistake that will stop the wheel of Samsara.</p>
 
-<p align="justify">The triumph of antinatalism is coming. The last curtain will fall, and where there is antinatalism, there will be death. Where there is death, there will be freedom. Where there is freedom, there will be happiness. Where there is happiness, there will be no more suffering. Those who oppress by the weight of feelings and pain of conscience will be overthrown. Those crowned with suffering will be deposed from the throne of God to the chants of emptiness. The chains of causality will be severed like the last umbilical cord and the birth of the the abandoned will come.</p>
+<p align="justify">The triumph of antinatalism is coming. The last curtain will fall, and where there is antinatalism, there will be death. Where there is death, there will be freedom. Where there is freedom, there will be happiness. Where there is happiness, there will be no more suffering. Those who oppress by the weight of feelings and pain of conscience will be overthrown. Those crowned with suffering will be deposed from the throne of God to the chants of emptiness. The chains of causality will be severed like the last umbilical cord and the birth of the abandoned will come.</p>
 
 ***
 
