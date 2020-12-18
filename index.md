@@ -10,6 +10,8 @@
 ## ☀️ Doctrine
 🔪 [『 No Excuse For Murder 』](murder.md)
 ## 💥 Eschatology
+👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+
 ☠️ [Eclipsing Pandemic](redplague.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
