@@ -278,7 +278,7 @@
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🏥 Health
-👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+👥 [『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
 ## 🤵 Human
@@ -402,7 +402,7 @@
 
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 💊 Medicine
-👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+👥 [『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
 ## 💡 Mental Process
 ⭐ [「 First Star 」](first_star.md)
 
@@ -610,7 +610,7 @@
 
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
-👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+👥 [『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
 
 🔪 [『 No Excuse For Murder 』](murder.md)
 
@@ -826,7 +826,7 @@
 ## 😅 Subjectivity
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 😖 Suffering
-👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+👥 [『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
 ## 💳 Tax
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🕯️ Theology
