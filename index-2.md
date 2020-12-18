@@ -90,6 +90,8 @@
 ## 🕯️ Эзотерика
 ⚫️ [Жидкий Обсидиан](obsidian-2.md)
 ## 💥 Эсхатология
+👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice-2.md)
+
 ☠️ [Затмевающаяся Пандемия](redplague-2.md)
 
 🖥️ [Шестая Печать](sixth_seal-2.md)
