@@ -207,12 +207,6 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
-## 🙌 Doctrine of Religion
-🔮 [Idealistic Spirituality](mirage.md)
-
-🔮 [Incomprehensibility](incomprehensibility.md)
-
-😇 [Rejected Holiness](holiness.md)
 ## 🐉 Dragons
 🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
 ## 📈 Economics
@@ -946,8 +940,14 @@
 👻 [Greatest Riddle](greatest_riddle.md)
 
 😇 [Rejected Holiness](holiness.md)
-## ☦️ Religious Doctrine
+## 🙌 Religious Doctrine
 👻 [Greatest Riddle](greatest_riddle.md)
+
+🔮 [Idealistic Spirituality](mirage.md)
+
+🔮 [Incomprehensibility](incomprehensibility.md)
+
+😇 [Rejected Holiness](holiness.md)
 ## 🧿 Religious Experience
 👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏛️ Religious Philosophy
