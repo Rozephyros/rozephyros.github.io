@@ -1,6 +1,8 @@
 # 🌹 Rozephyros 🌹
 <p align="justify">This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions. Every link is hidden the key to the incomprehensible reality.</p>
 
+## ⚛️ A Priori
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🎓 Academics Disciplines
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
@@ -9,6 +11,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🏷️ [Price Balance](price_balance.md)
 
@@ -21,6 +25,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🕵️ Assassination of John Kennedy
 🕵️ [Confidential Information](confidential.md)
 ## 🤔 Assumptions
@@ -59,14 +65,20 @@
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📐 Axiomatic System
 ♟️ [Autologous Singularity](autologous.md)
+## 💡 Awareness
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🔬 Behavioural Science
 ⭐ [「 First Star 」](first_star.md)
+## 🕊️ Belief
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 😒 Bias
 🏃 [Independent Speed](acceleration.md)
 ## 🧪 Branches of Science
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🏃 [Independent Speed](acceleration.md)
 
@@ -96,6 +108,8 @@
 
 📖 [Critical Authority](criticism.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🎭 [Honest Deception](deception.md)
 
 🏃 [Independent Speed](acceleration.md)
@@ -117,6 +131,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -143,6 +159,10 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
+## ⛪ Conceptions of God
+👻 [Greatest Riddle](greatest_riddle.md)
 ## ⚔️ Conflicts
 🏛️ [「 Step By Step 」](step_by_step.md)
 
@@ -157,14 +177,28 @@
 🧠 [Thinking Object](thinking_object.md)
 ## 📖 Contemporary Philosophy
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 ## ❌ Contradiction
 🎭 [Honest Deception](deception.md)
+## 🌌 Cosmology
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🌈 Creativity
 🔪 [『 No Excuse For Murder 』](murder.md)
+## 🤔 Critical Thinking
+👻 [Greatest Riddle](greatest_riddle.md)
+## 👪 Cultural Anthropology
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🖼️ Culture
 ⭐ [「 First Star 」](first_star.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🗽 Democracy
 ⚖️ [Specificity of Stability](specificity-stability.md)
+## 😍 Desire
+👻 [Greatest Riddle](greatest_riddle.md)
+## 🍀 Destiny
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🎭 Divine Comedy
 🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
 ## 🕯️ Divine Concepts
@@ -201,6 +235,8 @@
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 🕴️ Entrepreneurship
 📉 [Downward Spiral](downward_spiral.md)
+## ⚛️ Epistemological Theories
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🎓 Epistemology
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -213,6 +249,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -231,14 +269,22 @@
 🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## ⚪ Essence
+👻 [Greatest Riddle](greatest_riddle.md)
+## 💡 Ethical Principles
+👻 [Greatest Riddle](greatest_riddle.md)
 ## ☯️ Ethics
 🕊️ [Complete Liberation](liberation.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 👑 [Lead Crown](leadcrown.md)
 
 🏬 [Overtone Range](overtone_range.md)
 ## 🌌 Existence
 ⛓️ [Effective Independence](independence.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
 
@@ -252,19 +298,31 @@
 ## ❔ Existence of God
 🔮 [Incomprehensibility](incomprehensibility.md)
 ## 💡 Experience
+👻 [Greatest Riddle](greatest_riddle.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🔑 Explanation
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 📝 Facts
 🌌 [Revolution of The Universe](universal_revolution.md)
+## ✨ Faith
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏛️ Forms of Government
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🤖 Future
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🖥️ [Sixth Seal](sixth_seal.md)
+## ⚡ Generation
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 😇 God
 ♟️ [Autologous Singularity](autologous.md)
 
 🎭 [Honest Deception](deception.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
 
@@ -279,6 +337,10 @@
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🏥 Health
 👥 [『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+## ♨️ Heat
+👻 [Greatest Riddle](greatest_riddle.md)
+## ☠️ Heat Death
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏺 History
 💡 [Transfinite Radiation](radiation.md)
 ## 🤵 Human
@@ -304,6 +366,8 @@
 
 🌾 [Enlightened Community](communalism.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
@@ -321,8 +385,12 @@
 ⚖️ [Specificity of Stability](specificity-stability.md)
 
 💡 [Transfinite Radiation](radiation.md)
+## 🌱 Human Nature
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 💡 Ideas
 ♟️ [Autologous Singularity](autologous.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🧭 Ideology
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
@@ -346,6 +414,8 @@
 
 📖 [Critical Authority](criticism.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🏃 [Independent Speed](acceleration.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -353,6 +423,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🔗 Internalism and Externalism
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🌐 International Relations
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 
@@ -360,6 +432,8 @@
 ## 💂 International Security
 👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## 🔮 Intuition
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🇨🇳 Joseph Stalin
 💡 [Transfinite Radiation](radiation.md)
@@ -370,19 +444,29 @@
 
 📖 [Critical Authority](criticism.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🔮 [Incomprehensibility](incomprehensibility.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 📚 Knowledge
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 💬 Language
 🎭 [Honest Deception](deception.md)
 ## 👮 Law
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
+## 💭 Laws of Thought
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 💙 Life
 🖥️ [Sixth Seal](sixth_seal.md)
 ## 📚 Literature
 ☄️ [Convergence](convergence.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🥀 [Perished Humanity](perished_humanity.md)
 ## 🦉 Logic
@@ -392,11 +476,17 @@
 
 🎭 [Honest Deception](deception.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🏃 [Independent Speed](acceleration.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 💖 Love
+👻 [Greatest Riddle](greatest_riddle.md)
 ## ⚛️ Matter
 🛠️ [Linear Metaphysics](linearity.md)
+## 💬 Meaning of Life
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🛠️ Mechanics
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -415,6 +505,10 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
+## ⚛️ Metaphysical Theories
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -431,6 +525,8 @@
 🕊️ [Complete Liberation](liberation.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -466,6 +562,8 @@
 
 🕊️ [Complete Liberation](liberation.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -473,6 +571,10 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## ⛪ Metaphysics of Religion
+👻 [Greatest Riddle](greatest_riddle.md)
+## 🔬 Methodology
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 💂 Military
 👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## ⚔️ Military Science
@@ -480,13 +582,25 @@
 ## 🎖️ Military Operations
 🏛️ [「 Step By Step 」](step_by_step.md)
 ## 💭 Mind
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🖥️ [Sixth Seal](sixth_seal.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 🧠 Mind and Brain
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🕊️ Morality
 🏬 [Overtone Range](overtone_range.md)
+## 🎌 Movements
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🔪 Murder
 🔪 [『 No Excuse For Murder 』](murder.md)
+## ☯️ Mysticism
+👻 [Greatest Riddle](greatest_riddle.md)
+## 📖 Mythology
+👻 [Greatest Riddle](greatest_riddle.md)
+## 🌱 Nature
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏴 Nazi Germany
 ⭐ [「 First Star 」](first_star.md)
 ## 💊 Neurology
@@ -495,6 +609,9 @@
 ⭐ [「 First Star 」](first_star.md)
 
 🎨 [Colorful Intelligence](colorful.md)
+
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🏷️ [Price Balance](price_balance.md)
 
@@ -505,7 +622,11 @@
 ⭐ [「 First Star 」](first_star.md)
 
 🏷️ [Price Balance](price_balance.md)
+## 💭 Neuroscience
+👻 [Greatest Riddle](greatest_riddle.md)
 ## ⬛ Nothing
+👻 [Greatest Riddle](greatest_riddle.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## ⚡ Nuclear Energy
 ⛓️ [Effective Independence](independence.md)
@@ -529,8 +650,14 @@
 📉 [Downward Spiral](downward_spiral.md)
 ## ⚡ Omnipotence
 🎭 [Honest Deception](deception.md)
+## 😖 Pain
+👻 [Greatest Riddle](greatest_riddle.md)
+## 👻 Paranormal
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 👁️ Perception
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 📈 Personal Devevelopment
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🌌 Phenomenology
 ⭐ [「 First Star 」](first_star.md)
 
@@ -547,6 +674,8 @@
 ♟️ [Autologous Singularity](autologous.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 📚 Philosophical Movements
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
@@ -555,6 +684,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
 
@@ -565,6 +696,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## ❔ Philosophical Problems
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 👓 Philosophical Theories
 ⏳ [『 Illusions Always Die 』](illusions.md)
 
@@ -577,6 +710,8 @@
 🕊️ [Complete Liberation](liberation.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -599,6 +734,8 @@
 🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 👘 Philosophical Tradition
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🗿 Philosophy
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -623,6 +760,8 @@
 📖 [Critical Authority](criticism.md)
 
 ⛓️ [Effective Independence](independence.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -657,12 +796,16 @@
 🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
+## 🏫 Philosophy Education
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🧪 Physical Science
 🛠️ [Linear Metaphysics](linearity.md)
 
 🧮 [Numerical Glory](numericalglory.md)
 ## ⚛️ Physics
 ⛓️ [Effective Independence](independence.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🛠️ [Linear Metaphysics](linearity.md)
 
@@ -713,7 +856,11 @@
 ⚖️ [Specificity of Stability](specificity-stability.md)
 
 💡 [Transfinite Radiation](radiation.md)
+## 🎨 Postmodernism
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 💼 Practical Philosophy
+👻 [Greatest Riddle](greatest_riddle.md)
+
 👑 [Lead Crown](leadcrown.md)
 ## 🏷️ Prices
 🧠 [Thinking Object](thinking_object.md)
@@ -721,6 +868,10 @@
 🏬 [Overtone Range](overtone_range.md)
 ## 📺️ Propaganda
 📺️ [「 Future of Propaganda 」](propaganda.md)
+## ⚛️ Propositional Attitude
+👻 [Greatest Riddle](greatest_riddle.md)
+## 💥 Psychological Attitude
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🔮 Psychological Concepts
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -736,6 +887,8 @@
 
 📖 [Critical Authority](criticism.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🏃 [Independent Speed](acceleration.md)
 
 🏷️ [Price Balance](price_balance.md)
@@ -748,17 +901,23 @@
 ## 💡 Psychology
 ⭐ [「 First Star 」](first_star.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🏃 [Independent Speed](acceleration.md)
 
 🏷️ [Price Balance](price_balance.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
+## ⛪ Psychology of Religion
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 👏 Public Sphere
 📉 [Downward Spiral](downward_spiral.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🌈 Reality
 🎨 [Colorful Intelligence](colorful.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🔮 [Idealistic Spirituality](mirage.md)
 
@@ -770,17 +929,33 @@
 
 📖 [Critical Authority](criticism.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🏃 [Independent Speed](acceleration.md)
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⛪ Religion
 ☠️ [Eclipsing Pandemic](redplague.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🔮 [Idealistic Spirituality](mirage.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
 ## 🧿 Religious Experience
+👻 [Greatest Riddle](greatest_riddle.md)
+
 😇 [Rejected Holiness](holiness.md)
+## ☦️ Religious Doctrine
+👻 [Greatest Riddle](greatest_riddle.md)
+## 🧿 Religious Experience
+👻 [Greatest Riddle](greatest_riddle.md)
+## 🏛️ Religious Philosophy
+👻 [Greatest Riddle](greatest_riddle.md)
+## ⚛️ Resonance
+👻 [Greatest Riddle](greatest_riddle.md)
+## 📜 Revelation
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 💖 Romanticism
 💡 [Transfinite Radiation](radiation.md)
 ## 🇷🇺 Russia
@@ -790,14 +965,24 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🛠️ [Linear Metaphysics](linearity.md)
+## 🔬 Sciencists
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🗝️ Security
 👁️[「 Vision of Defence 」](vision_of_defence.md)
 ## 👁️ Self-Awareness
 🌌 [Revolution of The Universe](universal_revolution.md)
+## 💽 Sense Data
+👻 [Greatest Riddle](greatest_riddle.md)
+## 🔇 Silence
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🧭 Social Ideology
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 🏛️ Social Institutions
+👻 [Greatest Riddle](greatest_riddle.md)
+
 👑 [Lead Crown](leadcrown.md)
 
 🏬 [Overtone Range](overtone_range.md)
@@ -816,20 +1001,36 @@
 
 🦠 [Manifesto of Cellularism](cellularism.md)
 ## 💜 Soul
+👻 [Greatest Riddle](greatest_riddle.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Space
 ⚫️ [Liquid Obsidian](obsidian.md)
+## 🐈 Sphinx
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🧙 Spirituality
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🔮 [Idealistic Spirituality](mirage.md)
+## 📊 Statistics
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 😄 Subjective Expierence
 ⭐ [「 First Star 」](first_star.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 😅 Subjectivity
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 😖 Suffering
 👥 [『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
+## 👻 Supernatural
+👻 [Greatest Riddle](greatest_riddle.md)
+## ♒ Symmetry
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 💳 Tax
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🕯️ Theology
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🔮 [Idealistic Spirituality](mirage.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
@@ -847,6 +1048,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -870,13 +1073,19 @@
 
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## 💭 Thought
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ⌛ Time
+👻 [Greatest Riddle](greatest_riddle.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🧭 Truth
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🎭 [Honest Deception](deception.md)
 
@@ -886,8 +1095,12 @@
 ## 🇺🇦 Ukraine
 📉 [Downward Spiral](downward_spiral.md)
 ## 🤔 Understanding
+👻 [Greatest Riddle](greatest_riddle.md)
+
 ⚫️ [Liquid Obsidian](obsidian.md)
 ## 🌌 Universe
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🧮 [Numerical Glory](numericalglory.md)
 ## 🇨🇳 Vladimir Lenin
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
@@ -909,6 +1122,8 @@
 🎨 [Colorful Intelligence](colorful.md)
 
 📖 [Critical Authority](criticism.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
 
