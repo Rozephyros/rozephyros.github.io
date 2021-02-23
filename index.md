@@ -90,6 +90,8 @@
 
 🕵️ [Confidential Information](confidential.md)
 
+👻 [Greatest Riddle](greatest_riddle.md)
+
 🦸 [Radical Change](true_heroism.md)
 ## 🌌 Universe
 🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
