@@ -606,7 +606,6 @@
 
 🎨 [Colorful Intelligence](colorful.md)
 
-
 👻 [Greatest Riddle](greatest_riddle.md)
 
 🏷️ [Price Balance](price_balance.md)
