@@ -938,10 +938,6 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
-## 🧿 Religious Experience
-👻 [Greatest Riddle](greatest_riddle.md)
-
-😇 [Rejected Holiness](holiness.md)
 ## 🙌 Religious Doctrine
 👻 [Greatest Riddle](greatest_riddle.md)
 
@@ -952,6 +948,8 @@
 😇 [Rejected Holiness](holiness.md)
 ## 🧿 Religious Experience
 👻 [Greatest Riddle](greatest_riddle.md)
+
+😇 [Rejected Holiness](holiness.md)
 ## ☦️ Religious Tradition
 👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏛️ Religious Philosophy
