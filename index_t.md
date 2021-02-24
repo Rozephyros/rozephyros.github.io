@@ -600,7 +600,7 @@
 ## 🏴 Nazi Germany
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 💊 Neurology
-💡 [Transfinite Radiation](radiation.md)
+⭐ [「 First Star 」](first_star.md)
 ## 🔬 Neuropsychological Assessment
 ⭐ [「 First Star 」](first_star.md)
 
