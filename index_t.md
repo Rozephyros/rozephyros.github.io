@@ -598,7 +598,7 @@
 ## 🌱 Nature
 👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏴 Nazi Germany
-⭐ [「 First Star 」](first_star.md)
+👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 💊 Neurology
 💡 [Transfinite Radiation](radiation.md)
 ## 🔬 Neuropsychological Assessment
