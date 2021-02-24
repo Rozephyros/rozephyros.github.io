@@ -952,6 +952,8 @@
 😇 [Rejected Holiness](holiness.md)
 ## 🧿 Religious Experience
 👻 [Greatest Riddle](greatest_riddle.md)
+## ☦️ Religious Tradition
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏛️ Religious Philosophy
 👻 [Greatest Riddle](greatest_riddle.md)
 ## ⚛️ Resonance
