@@ -503,7 +503,9 @@
 📖 [Critical Authority](criticism.md)
 
 👻 [Greatest Riddle](greatest_riddle.md)
-## ⚛️ Metaphysical Theories
+## 👓 Metaphysical Theories
+🎨 [Colorful Intelligence](colorful.md)
+
 👻 [Greatest Riddle](greatest_riddle.md)
 ## 🌌 Metaphysics
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
@@ -547,8 +549,6 @@
 🧠 [Thinking Object](thinking_object.md)
 
 🧙 [Vengeance × Resurrection](coronzon.md)
-## 👓 Metaphysical Theories
-🎨 [Colorful Intelligence](colorful.md)
 ## 💡 Metaphysics of Mind
 ⭐ [「 First Star 」](first_star.md)
 
