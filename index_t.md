@@ -301,6 +301,8 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ✨ Faith
 👻 [Greatest Riddle](greatest_riddle.md)
+## 📖 Fiction
+👻 [Greatest Riddle](greatest_riddle.md)
 ## 🏛️ Forms of Government
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
