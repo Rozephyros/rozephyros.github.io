@@ -1,4 +1,4 @@
-# 🏷️ Price Balance 🏷️
+# 🔖 Price Balance 🔖
 
 <p align="justify">Although the numbers on the price tags are objective for independent consumers, they are not prices. The price should be understood as a criterion existing in the mind, on which a person relies when deciding to buy a consumer product. Price tags are based on fragments of consumer consciousness taken out of context, which is expressed in generally accepted symbols. This means that prices change by the power of thought, and price tags are carved out of granite.</p>
 
