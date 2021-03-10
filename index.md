@@ -64,6 +64,8 @@
 
 🦠 [Manifesto of Cellularism](cellularism.md)
 
+⚖️ [New Normalcy](normal.md) 
+
 🏬 [Overtone Range](overtone_range.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
