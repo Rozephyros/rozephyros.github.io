@@ -10,4 +10,4 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](felice-2.md) | 📚 [Thematic Catalogue](index_t.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](felice-2.md) 
