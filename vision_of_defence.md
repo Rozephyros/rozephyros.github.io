@@ -8,4 +8,4 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](vision_of_defence-2.md) | 📚 [Thematic Catalogue](index_t.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](vision_of_defence-2.md) 

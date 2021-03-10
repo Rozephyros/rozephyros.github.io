@@ -5,5 +5,5 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](step_by_step-2.md) | 📚 [Thematic Catalogue](index_t.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](step_by_step-2.md) 
 

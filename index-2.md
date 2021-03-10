@@ -100,4 +100,4 @@
 
 ***
 
-##### 🗽 [English Version](index.md) | 📚 [Тематический Каталог](index_2t.md)
+##### 🗽 [English Version](index.md) 

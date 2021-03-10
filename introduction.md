@@ -7,4 +7,4 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](introduction-2.md) | 📚 [Thematic Catalogue](index_t.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](introduction-2.md) 
