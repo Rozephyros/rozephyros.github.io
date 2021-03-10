@@ -1,105 +1,105 @@
 # 🌹 Rozephyros 🌹
 <p align="justify">This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions. Every link is hidden the key to the incomprehensible reality.</p>
 
-## 📚 General
-🥀 [Introduction](introduction.md)
-## 🎨 Art
-⭐ [「 First Star 」](first_star.md)
-## 😒 Criticism
-😇 [Rejected Holiness](holiness.md)
-## ☀️ Doctrine
-🔪 [『 No Excuse For Murder 』](murder.md)
-## 💥 Eschatology
-👥 [ 『 Ni Vivas Feliĉe Aŭ Funebras Silente 』](felice.md)
-
-☠️ [Eclipsing Pandemic](redplague.md)
-
-🖥️ [Sixth Seal](sixth_seal.md)
-## 🕯️ Esoterics
-⚫️ [Liquid Obsidian](obsidian.md)
-## 🌐 Geopolitics
-👁️[「 Vision of Defence 」](vision_of_defence.md)
-
-🌌 [Cosmic Stability](stability.md)
-## 🏺 History
-👑 [「 Wealth of Empires 」](wealth_of_empires.md)
-
-💡 [Transfinite Radiation](radiation.md)
-## 🦉 Logic
-🎭 [Honest Deception](deception.md)
-## ⚛️ Metaphysics
-🛠️ [Linear Metaphysics](linearity.md)
-
-🌌 [Revolution of The Universe](universal_revolution.md)
-## 🔮 Mysticism
-🔮 [Idealistic Spirituality](mirage.md)
-
-🧙 [Vengeance × Resurrection](coronzon.md)
-## 🗿 Philosophy
-🚘️ [「 Speed of Thought 」](speed_of_thought.md)
-
-♟️ [Autologous Singularity](autologous.md)
-
-🎨 [Colorful Intelligence](colorful.md)
-
-📖 [Critical Authority](criticism.md)
-
-⛓️ [Effective Independence](independence.md)
-
-🏃 [Independent Speed](acceleration.md)
-
-🏷️ [Price Balance](price_balance.md)
-
-🧠 [Thinking Object](thinking_object.md)
-## 🗳️ Politics
+## ⚔️ Activism
 📺️ [「 Future of Propaganda 」](propaganda.md)
 
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
-📉 [Downward Spiral](downward_spiral.md)
+🏛️ [「 Step By Step 」](step_by_step.md)
 
-🌾 [Enlightened Community](communalism.md)
+👁️[「 Vision of Defence 」](vision_of_defence.md)
 
+🦸 [Radical Change](true_heroism.md)
+## 🕵️ Crime
+🔪 [『 No Excuse For Murder 』](murder.md)
+
+🕵️ [Confidential Information](confidential.md)
+## 👑 Dictatorship
+🗡️ [Heroic Betrayal](heroic_betrayal.md)
+
+⚖️ [Specificity of Stability](specificity-stability.md)
+## 📈 Economics
+🔖 [Price Balance](price_balance.md)
+
+🧠 [Thinking Object](thinking_object.md)
+## 💥 Eschatology
+🥀 [Perished Humanity](perished_humanity.md)
+## 🕊️ Ethics
 👑 [Lead Crown](leadcrown.md)
+
+🏬 [Overtone Range](overtone_range.md)
+## 💸 Finance
+👑 [「 Wealth of Empires 」](wealth_of_empires.md)
+## 🩺 Health
+🥀 [Introduction](introduction.md)
+## 🦉 Logic
+🎭 [Honest Deception](deception.md)
+## 📐 Mathematics
+♟️ [Autologous Singularity](autologous.md)
+## 🔮 Mysticism
+🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
+
+☠️ [Eclipsing Pandemic](redplague.md)
+
+🔮 [Idealistic Spirituality](mirage.md)
+
+🔮 [Incomprehensibility](incomprehensibility.md)
+## 🗿 Philosophy
+🎭 [『 Mask Is Just A Costume 』](costume.md)
+
+🎨 [Colorful Intelligence](colorful.md)
+
+🌌 [Cosmic Stability](stability.md)
+
+👻 [Greatest Riddle](greatest_riddle.md)
+
+⚫️ [Liquid Obsidian](obsidian.md)
+
+👥 [Ni Vivas Feliĉe Aŭ Funebras Silente](felice.md)
+## ⚛️ Physics
+⛓️ [Effective Independence](independence.md)
+
+🛠️ [Linear Metaphysics](linearity.md)
+
+🧮 [Numerical Glory](numericalglory.md)
+## 🗳️ Politics
+📉 [Downward Spiral](downward_spiral.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
 
 ⚖️ [New Normalcy](normal.md) 
-
-🏬 [Overtone Range](overtone_range.md)
-
-⚖️ [Specificity of Stability](specificity-stability.md)
-## 📝 Poetry
-☄️ [Convergence](convergence.md)
-
-🥀 [Perished Humanity](perished_humanity.md)
 ## 💡 Psychology
-⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
-## 🌹 Socialism
-🗡️ [Heroic Betrayal](heroic_betrayal.md)
-## 🕯️ Theology
-🔮 [Incomprehensibility](incomprehensibility.md)
-
-🧮 [Numerical Glory](numericalglory.md)
-## 💭 Thoughts
 👊 [「 Shape of Force 」](shape_of_force.md)
+
+🌌 [Revolution of The Universe](universal_revolution.md)
+## ☀️ Religion
+😇 [Rejected Holiness](holiness.md)
+## 🔬 Science
+⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
+
+⭐ [「 First Star 」](first_star.md)
+
+🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
 ⏳ [『 Illusions Always Die 』](illusions.md)
 
-🎭 [『 Mask Is Just A Costume 』](costume.md)
-
 🕊️ [Complete Liberation](liberation.md)
 
-🕵️ [Confidential Information](confidential.md)
+📖 [Critical Authority](criticism.md)
 
-👻 [Greatest Riddle](greatest_riddle.md)
+🏃 [Independent Speed](acceleration.md)
 
-🦸 [Radical Change](true_heroism.md)
+🖥️ [Sixth Seal](sixth_seal.md)
+
+💡 [Transfinite Radiation](radiation.md)
+
+🧙 [Vengeance × Resurrection](coronzon.md)
+## 🏛️ Society
+🌾 [Enlightened Community](communalism.md)
 ## 🌌 Universe
-🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
-## ✍️ Writing
-🏛️ [「 Step By Step 」](step_by_step.md)
+☄️ [Convergence](convergence.md)
 
 ***
 
-##### 🌻 [Русская Версия](index-2.md) 
+##### 🌻 [Русская Версия](index-2.md)
