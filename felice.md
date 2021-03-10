@@ -1,4 +1,4 @@
-# 👥『 Ni Vivas Feliĉe Aŭ Funebras Silente 』 👥
+# 👥 Ni Vivas Feliĉe Aŭ Funebras Silente 👥
 
 <p align="justify">Where does the causal chain of a banal tragedy begin? Let's say you are suffering from a disease. You see a doctor who prescribes a mild medicine. This is not enough, you gradually switch to heavy pills. When they fail, you decide to take more and more desperate measures. Finally, after talking with the surgeon, you decide on a radical intervention. You go under the knife and die on the operating table. Will there be a tragedy through the fault of the surgeon? What if you went to another specialist? What if you refused medical intervention?</p>
 
