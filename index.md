@@ -33,6 +33,8 @@
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🩺 Health
 🥀 [Introduction](introduction.md)
+## 💻 Information
+🔱 [Ruined Samsara](samsara.md) 
 ## 🦉 Logic
 🎭 [Honest Deception](deception.md)
 ## 📐 Mathematics
