@@ -59,6 +59,8 @@
 ⚫️ [Liquid Obsidian](obsidian.md)
 
 👥 [Ni Vivas Feliĉe Aŭ Funebras Silente](felice.md)
+
+🃏 [Reality Control](reality_control-2.md)
 ## ⚛️ Physics
 ⛓️ [Effective Independence](independence.md)
 
