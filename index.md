@@ -60,7 +60,7 @@
 
 👥 [Ni Vivas Feliĉe Aŭ Funebras Silente](felice.md)
 
-🃏 [Reality Control](reality_control-2.md)
+🃏 [Reality Control](reality_control.md)
 ## ⚛️ Physics
 ⛓️ [Effective Independence](independence.md)
 
