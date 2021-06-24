@@ -80,7 +80,7 @@
 ## ☀️ Religion
 😇 [Rejected Holiness](holiness.md)
 ## 🎭 Satire
-☠️ 『 There Is Nothing 』(there_is_nothing.md)
+☠️ [『 There Is Nothing 』](there_is_nothing.md)
 ## 🔬 Science
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
