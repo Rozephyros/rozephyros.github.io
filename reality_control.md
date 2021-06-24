@@ -2,7 +2,7 @@
 
 ![Reality Control](https://raw.githubusercontent.com/Rozephyros/rozephyros.github.io/master/%E3%80%8C%20Reality%20Control%20%E3%80%8D.png)
 
-<p align="justify"><i>“A real journey is not a movement to new boundaries, but a return to oneself. But only the one who looks at his feet, and does not admire his own reflection, can go this way.” - Lao Tzu</i></p>
+<p align="justify"><i>“A real journey is not a movement to new boundaries, but a return to oneself. But only the one who looks at his feet, and does not admire his own reflection, can go this way.” — Lao Tzu</i></p>
 
 <p align="justify">In practice, there is always a certain hierarchy. People who don't try to influence circumstances. At the next level, people who are ready to shape the circumstances. And at the very top, those chosen by fate find themselves in circumstances that cannot be formed. Real achievements are, as a rule, the achievements of people who are forced to act. You can change the natural order for a brief moment. This usually requires a lot of effort and composure that goes beyond instinct and considered “heroic”. However, the chosen by fate have achieved success not because of their own free will and desire, but in spite of them.</p>
 
