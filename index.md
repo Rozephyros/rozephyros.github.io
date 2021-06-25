@@ -71,7 +71,7 @@
 ## 🗳️ Politics
 📉 [Downward Spiral](downward_spiral.md)
 
-🧙 [Harry Potter and the Marsixm’s Allegory](harry_potter.md)
+🧙 [The Marsixm’s Allegory](harry_potter.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
 
