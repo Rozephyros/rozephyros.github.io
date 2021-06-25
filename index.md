@@ -71,11 +71,11 @@
 ## 🗳️ Politics
 📉 [Downward Spiral](downward_spiral.md)
 
-🧙 [The Marsixm’s Allegory](harry_potter.md)
-
 🦠 [Manifesto of Cellularism](cellularism.md)
 
 ⚖️ [New Normalcy](normal.md) 
+
+🧙 [The Marsixm’s Allegory](harry_potter.md)
 ## 💡 Psychology
 👊 [「 Shape of Force 」](shape_of_force.md)
 
