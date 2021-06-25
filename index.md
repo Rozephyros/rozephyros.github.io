@@ -14,6 +14,8 @@
 ## 🕵️ Crime
 🔪 [『 No Excuse For Murder 』](murder.md)
 
+☠️ [『 There Is Nothing 』](there_is_nothing.md)
+
 🕵️ [Confidential Information](confidential.md)
 ## 👑 Dictatorship
 🗡️ [Heroic Betrayal](heroic_betrayal.md)
@@ -60,7 +62,6 @@
 
 👥 [Ni Vivas Feliĉe Aŭ Funebras Silente](felice.md)
 
-🃏 [Reality Control](reality_control.md)
 ## ⚛️ Physics
 ⛓️ [Effective Independence](independence.md)
 
@@ -69,6 +70,8 @@
 🧮 [Numerical Glory](numericalglory.md)
 ## 🗳️ Politics
 📉 [Downward Spiral](downward_spiral.md)
+
+🧙 [Harry Potter and the Marsixm’s Allegory](harry_potter.md)
 
 🦠 [Manifesto of Cellularism](cellularism.md)
 
@@ -79,8 +82,6 @@
 🌌 [Revolution of The Universe](universal_revolution.md)
 ## ☀️ Religion
 😇 [Rejected Holiness](holiness.md)
-## 🎭 Satire
-☠️ [『 There Is Nothing 』](there_is_nothing.md)
 ## 🔬 Science
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
@@ -95,6 +96,8 @@
 📖 [Critical Authority](criticism.md)
 
 🏃 [Independent Speed](acceleration.md)
+
+🃏 [Reality Control](reality_control.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
 
