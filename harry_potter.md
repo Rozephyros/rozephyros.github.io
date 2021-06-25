@@ -1,4 +1,4 @@
-#  🧙 Harry Potter and Marsixm’s Allegory 🧙
+#  🧙 Harry Potter and the Marsixm’s Allegory 🧙
 
 ![Marsixm’s Allegory](https://raw.githubusercontent.com/Rozephyros/rozephyros.github.io/master/%F0%9F%A7%99%20Marsixm%E2%80%99s%20Allegory%20%F0%9F%A7%99.png)
 
