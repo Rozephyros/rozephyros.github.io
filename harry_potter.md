@@ -2,7 +2,7 @@
 
 ![Marsixm’s Allegory](https://raw.githubusercontent.com/Rozephyros/rozephyros.github.io/master/%F0%9F%A7%99%20Marsixm%E2%80%99s%20Allegory%20%F0%9F%A7%99.png)
 
-<p align="justify"><i>“A real journey is not a movement to new boundaries, but a return to oneself. But only the one who looks at his feet, and does not admire his own reflection, can go this way.” — Lao Tzu</i></p>
+<p align="justify"><i>“In any era, the ideas of the ruling class prevail.” — Karl Marx</i></p>
 
 
 <p align="justify">Harry Potter is a very interesting book. It explains how Marxists think and why they do what they do. To begin with, magic is financial capital controlled by wizards from all over the world. For example, the purebred Slytherin personifies the aristocracy who believe they have a right to wealth simply by birth. Ravenclaw in its intellectualism personifies the stratum of the bourgeois intelligentsia. Hufflepuff is less important and represents the petty bourgeoisie willing to succumb to fascism and other right-wing ideologies.</p>
