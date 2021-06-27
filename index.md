@@ -79,9 +79,9 @@
 ## 💡 Psychology
 👊 [「 Shape of Force 」](shape_of_force.md)
 
-♟️ [Strategy or Madness?](illuminati.md)
-
 🌌 [Revolution of The Universe](universal_revolution.md)
+
+♟️ [Strategy or Madness?](illuminati.md)
 ## ☀️ Religion
 😇 [Rejected Holiness](holiness.md)
 ## 🔬 Science
