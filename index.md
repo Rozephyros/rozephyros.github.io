@@ -91,6 +91,8 @@
 
 🚘️ [「 Speed of Thought 」](speed_of_thought.md)
 
+🙏 [『 A Humble Plea For A Subject 』](humble.md)
+
 ⏳ [『 Illusions Always Die 』](illusions.md)
 
 🕊️ [Complete Liberation](liberation.md)
