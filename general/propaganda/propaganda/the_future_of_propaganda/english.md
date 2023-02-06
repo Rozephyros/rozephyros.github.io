@@ -1,4 +1,4 @@
-# 📣 𝕿𝖍𝖊 𝕱𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
+# 📺 𝕿𝖍𝖊 𝕱𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
 
 <p align="justify">Victory is not determined by the budget of the army or the skill of the generals. Victory is determined by the will of people and their desire to live in a free society. When you invest in the army, and not in the development of the country, you simply wait until the army becomes obsolete and the country is surrendered without firing a shot. You must develop the economy before thinking about building an army.</p>
 
