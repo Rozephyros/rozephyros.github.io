@@ -21,4 +21,4 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](english.md)
+##### ↩️ [Назад](/index-2.md) | 🗽 [English Version](english.md)
