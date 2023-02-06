@@ -22,4 +22,4 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](general/propaganda/propaganda/the_future_of_propaganda/russian.md)
+##### ↩️ [Back](index.md) | 🌻 [Русская Версия](russian.md)
