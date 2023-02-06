@@ -70,10 +70,11 @@
 
 🔪 [『 Убийству Нет Оправдания 』](murder-2.md)
 
+🕵️ [Конфиденциальная Информация](confidential-2.md)
+
 ## 📣 Пропаганда
 📺 [Будущее Пропаганды](general/propaganda/propaganda/the_future_of_propaganda/russian.md)
 
-🕵️ [Конфиденциальная Информация](confidential-2.md)
 ## 💡 Психология
 👊 [「 Форма Силы 」](shape_of_force-2.md)
 
