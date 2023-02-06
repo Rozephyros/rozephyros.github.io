@@ -1,8 +1,7 @@
-# 🌹 Rozephyros 🌹
+# 🌹 𝕽𝖔𝖟𝖊𝖕𝖍𝖞𝖗𝖔𝖘 🌹
 <p align="justify">This place is a repository of secret knowledge, philosophical thoughts and mathematical abstractions. Every link is hidden the key to the incomprehensible reality.</p>
 
 ## ⚔️ Activism
-📺️ [「 Future of Propaganda 」](propaganda.md)
 
 💔 [「 Gap of Trust 」](gap_of_trust.md)
 
@@ -76,6 +75,10 @@
 ⚖️ [New Normalcy](normal.md) 
 
 🧙 [The Marsixm’s Allegory](harry_potter.md)
+
+## 📣 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
+📺 [𝕿𝖍𝖊 𝕱𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆](general/propaganda/propaganda/the_future_of_propaganda/english.md)
+
 ## 💡 Psychology
 👊 [「 Shape of Force 」](shape_of_force.md)
 
