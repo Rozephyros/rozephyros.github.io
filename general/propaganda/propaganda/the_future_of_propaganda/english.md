@@ -26,4 +26,4 @@
 
 ***
 
-##### ↩️ [Back](/index.md) | 🌻 [Русская Версия](russian.md)
+##### ↩️ [Back](https://rozephyros.github.io/) | 🌻 [Русская Версия](russian.md)
