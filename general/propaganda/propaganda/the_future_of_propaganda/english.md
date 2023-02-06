@@ -1,6 +1,6 @@
 # 📺 𝕿𝖍𝖊 𝕱𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
 
-![The Future of Propaganda](https://raw.githubusercontent.com/Rozephyros/rozephyros.github.io/master/%E3%80%8C%20Reality%20Control%20%E3%80%8D.png)
+![The Future of Propaganda](image.png)
 
 #### <p align="justify"><i>«Настоящее путешествие - это не движение к новым границам, а возвращение к себе. Но пройти этот путь может только тот, кто смотрит себе под ноги, а не восхищается собственным отражением.» — Лао-Цзы</i></p>
 
