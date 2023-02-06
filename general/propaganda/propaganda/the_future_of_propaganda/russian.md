@@ -21,4 +21,4 @@
 
 ***
 
-##### ↩️ [Back](index.md) | 🌻 [Русская Версия](english.md)
+##### ↩️ [Назад](index-2.md) | 🗽 [English Version](english.md)
