@@ -2,7 +2,7 @@
 
 ![The Future of Propaganda](https://raw.githubusercontent.com/Rozephyros/rozephyros.github.io/master/%E3%80%8C%20Reality%20Control%20%E3%80%8D.png)
 
-<p align="justify"><i>«Настоящее путешествие - это не движение к новым границам, а возвращение к себе. Но пройти этот путь может только тот, кто смотрит себе под ноги, а не восхищается собственным отражением.» — Лао-Цзы</i></p>
+#### <p align="justify"><i>«Настоящее путешествие - это не движение к новым границам, а возвращение к себе. Но пройти этот путь может только тот, кто смотрит себе под ноги, а не восхищается собственным отражением.» — Лао-Цзы</i></p>
 
 <p align="justify">Victory is not determined by the budget of the army or the skill of the generals. Victory is determined by the will of people and their desire to live in a free society. When you invest in the army, and not in the development of the country, you simply wait until the army becomes obsolete and the country is surrendered without firing a shot. You must develop the economy before thinking about building an army.</p>
 
