@@ -22,4 +22,4 @@
 
 ***
 
-##### ↩️ [Назад](index-2.md) | 🗽 [English Version](propaganda.md) 
+##### ↩️ [Назад](/index-2.md) | 🗽 [English Version](propaganda.md) 
