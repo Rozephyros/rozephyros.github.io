@@ -1,5 +1,9 @@
 # 📺 𝕿𝖍𝖊 𝕱𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
 
+![The Future of Propaganda](https://raw.githubusercontent.com/Rozephyros/rozephyros.github.io/master/%E3%80%8C%20Reality%20Control%20%E3%80%8D.png)
+
+<p align="justify"><i>«Настоящее путешествие - это не движение к новым границам, а возвращение к себе. Но пройти этот путь может только тот, кто смотрит себе под ноги, а не восхищается собственным отражением.» — Лао-Цзы</i></p>
+
 <p align="justify">Victory is not determined by the budget of the army or the skill of the generals. Victory is determined by the will of people and their desire to live in a free society. When you invest in the army, and not in the development of the country, you simply wait until the army becomes obsolete and the country is surrendered without firing a shot. You must develop the economy before thinking about building an army.</p>
 
 <p align="justify">The only way to realize the country's potential is to increase production. It is no coincidence that Stalin won after investing in industrialization, but the late Soviet Union, which relied on the arms race, no longer exists. But not at all because Gorbachev needed to spend more on propaganda. Our spending on the army and propaganda has grown steadily over the years. The government still convinces us that these investments will pay off. However, I am here today to explain to you why this will not happen.</p>
