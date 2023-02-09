@@ -1,4 +1,4 @@
-# 🌹 Розефирос 🌹
+# 🌹 𝕽𝖔𝖟𝖊𝖕𝖍𝖞𝖗𝖔𝖘 🌹
 <p align="justify">Это место - хранилище тайных знаний, философских размышлений и математических абстракций. Каждая ссылка - сокровенный ключ к непостижимой реальности.</p>
 
 ## ⚔️ Активизм
@@ -23,6 +23,8 @@
 🎭 [Честный Обман](deception-2.md)
 ## 📐 Математика
 ♟️ [Автологичная Сингулярность](autologous-2.md)
+## 🙏 𝕸𝖔𝖗𝖆𝖑𝖎𝖙𝖞
+🌌 [**Сверхпустота Эридана**](general/morality/faith/eridanus_supervoid/russian.md)
 ## 🔮 Мистицизм
 ☠️ [Затмевающаяся Пандемия](redplague-2.md)
 
@@ -72,8 +74,8 @@
 
 🕵️ [Конфиденциальная Информация](confidential-2.md)
 
-## 📣 Пропаганда
-📺 [Будущее Пропаганды](general/propaganda/propaganda/the_future_of_propaganda/russian.md)
+## 📣 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
+📺 [**Будущее Пропаганды**](general/propaganda/propaganda/the_future_of_propaganda/russian.md)
 
 ## 💡 Психология
 👊 [「 Форма Силы 」](shape_of_force-2.md)
