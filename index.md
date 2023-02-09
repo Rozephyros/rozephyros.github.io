@@ -41,8 +41,6 @@
 ## 📐 Mathematics
 ♟️ [Autologous Singularity](autologous.md)
 ## 🙏 𝕸𝖔𝖗𝖆𝖑𝖎𝖙𝖞
-𝕱𝖆𝖎𝖙𝖍
-
 🌌 [𝕰𝖗𝖎𝖉𝖆𝖓𝖚𝖘 𝕾𝖚𝖕𝖊𝖗𝖛𝖔𝖎𝖉](general/morality/faith/eridanus_supervoid/english.md)
 ## 🔮 Mysticism
 🐉 [Dragon Slayer's Citadel](dragon_citadel.md)
@@ -81,8 +79,6 @@
 🧙 [The Marsixm’s Allegory](harry_potter.md)
 
 ## 📣 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
-𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
-
 📺 [𝕿𝖍𝖊 𝕱𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆](general/propaganda/propaganda/the_future_of_propaganda/english.md)
 
 ## 💡 Psychology
