@@ -90,7 +90,7 @@
 
 ⛓️ [Эффективная Независимость](independence-2.md)
 ## 📚 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
-📉 [Дефицит Доверия](general/philosophy/political_science/trust_deficit/russian.md)
+📉 [**Дефицит Доверия**](general/philosophy/political_science/trust_deficit/russian.md)
 
 🎭 [『 Маска Лишь Костюм 』](costume-2.md)
 
