@@ -3,8 +3,6 @@
 
 ## ⚔️ Activism
 
-💔 [「 Gap of Trust 」](gap_of_trust.md)
-
 🏛️ [「 Step By Step 」](step_by_step.md)
 
 👁️[「 Vision of Defence 」](vision_of_defence.md)
@@ -50,7 +48,9 @@
 🔮 [Idealistic Spirituality](mirage.md)
 
 🔮 [Incomprehensibility](incomprehensibility.md)
-## 🗿 Philosophy
+## 📚 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
+📉 [𝕿𝖗𝖚𝖘𝖙 𝕯𝖊𝖋𝖎𝖈𝖎𝖙](general/philosophy/political_science/trust_deficit/english.md)
+
 🎭 [『 Mask Is Just A Costume 』](costume.md)
 
 🎨 [Colorful Intelligence](colorful.md)
@@ -78,7 +78,7 @@
 
 🧙 [The Marsixm’s Allegory](harry_potter.md)
 
-## 📣 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
+## 📺 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆
 📺 [𝕿𝖍𝖊 𝕱𝖚𝖙𝖚𝖗𝖊 𝖔𝖋 𝕻𝖗𝖔𝖕𝖆𝖌𝖆𝖓𝖉𝖆](general/propaganda/propaganda/the_future_of_propaganda/english.md)
 
 ## 💡 Psychology
