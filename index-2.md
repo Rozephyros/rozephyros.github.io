@@ -103,6 +103,8 @@
 🌌 [Космическая Стабильность](stability-2.md)
 
 🎨 [Красочный Интеллект](colorful-2.md)
+## 🇷🇺 𝕽𝖚𝖘𝖘𝖎𝖆
+⚔️ [**Не Было Выбора**](general/russia/joseph_stalin/we_had_no_choice/russian.md)
 ## 💸 Финансы
 👑 [「 Богатство Империй 」](wealth_of_empires-2.md)
 ## 💥 Эсхатология
