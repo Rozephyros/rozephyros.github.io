@@ -89,6 +89,10 @@
 ♟️ [Strategy or Madness?](illuminati.md)
 ## ☀️ Religion
 😇 [Rejected Holiness](holiness.md)
+
+## 🇷🇺 𝕽𝖚𝖘𝖘𝖎𝖆
+⚔️ [𝖂𝖊 𝕳𝖆𝖉 𝕹𝖔 𝕮𝖍𝖔𝖎𝖈𝖊](general/russia/joseph_stalin/we_had_no_choice/english.md)
+
 ## 🔬 Science
 ⚜️ [𝕮𝖚𝖑 𝖉𝖊 𝕱𝖆𝖗𝖈𝖊](cul_de_farce.md)
 
