@@ -1,6 +1,6 @@
 # ⚔️ 𝕳𝖊𝖗𝖔𝖎𝖈 𝕭𝖊𝖙𝖗𝖆𝖞𝖆𝖑
 
-![Heoric Betrayal](image.png)
+![Heroic Betrayal](image.png)
 
 #### <i>“We experience the joy and pain of our existence as one person with a million hearts.”</i>
 
