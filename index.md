@@ -14,8 +14,6 @@
 ☠️ [『 There Is Nothing 』](there_is_nothing.md)
 
 🕵️ [Confidential Information](confidential.md)
-## 👑 Dictatorship
-🗡️ [Heroic Betrayal](heroic_betrayal.md)
 
 ⚖️ [Specificity of Stability](specificity-stability.md)
 ## 📈 Economics
@@ -91,6 +89,8 @@
 😇 [Rejected Holiness](holiness.md)
 
 ## 🇷🇺 𝕽𝖚𝖘𝖘𝖎𝖆
+🌹 [𝕳𝖊𝖗𝖔𝖎𝖈 𝕭𝖊𝖙𝖗𝖆𝖞𝖆𝖑](general/russia/vladimir_lenin/heroic_betrayal/english.md)
+
 ⚔️ [𝖂𝖊 𝕳𝖆𝖉 𝕹𝖔 𝕮𝖍𝖔𝖎𝖈𝖊](general/russia/joseph_stalin/we_had_no_choice/english.md)
 
 ## 🔬 Science
