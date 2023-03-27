@@ -26,6 +26,8 @@
 👑 [Lead Crown](leadcrown.md)
 
 🏬 [Overtone Range](overtone_range.md)
+## 🎓 𝕰𝖝𝖕𝖎𝖊𝖗𝖊𝖓𝖈𝖊
+🌃 [𝕿𝖍𝖊 𝖁𝖆𝖑𝖚𝖊 𝖔𝖋 𝕰𝖒𝖕𝖙𝖎𝖓𝖊𝖘𝖘](general/experience/experience/the_value_of_emptiness/english.md)
 ## 💸 Finance
 👑 [「 Wealth of Empires 」](wealth_of_empires.md)
 ## 🩺 Health
