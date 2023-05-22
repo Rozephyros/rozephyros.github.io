@@ -121,6 +121,8 @@
 🧙 [Vengeance × Resurrection](coronzon.md)
 ## 🏛️ Society
 🌾 [Enlightened Community](communalism.md)
+## 🧿 𝕿𝖗𝖚𝖙𝖍
+💬 [𝕻𝖔𝖑𝖊𝖒𝖎𝖈𝖆𝖑 𝕸𝖎𝖘𝖘𝖎𝖔𝖓](general/truth/truth/polemical_mission/english.md)
 ## 🌌 Universe
 ☄️ [Convergence](convergence.md)
 
