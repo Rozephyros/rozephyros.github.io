@@ -1,5 +1,5 @@
 # 🌹 𝕽𝖔𝖟𝖊𝖕𝖍𝖞𝖗𝖔𝖘 🌹
-<p align="justify">A repository of philosophical thoughts and mathematical abstractions. Each page is the key to an incomprehensible reality.</p>
+<p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## ⚔️ Activism
 
