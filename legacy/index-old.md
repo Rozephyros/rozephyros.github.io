@@ -1,4 +1,4 @@
-# 📁 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
+# 📁 𝕳𝖊𝖗𝖎𝖙𝖆𝖌𝖊 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
 <p align="justify">An old repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## ⚔️ Activism
