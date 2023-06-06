@@ -1,9 +1,7 @@
-# 🌹 𝕽𝖔𝖟𝖊𝖕𝖍𝖞𝖗𝖔𝖘 🌹
-<p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
+# 📁 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
+<p align="justify">An old repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## ⚔️ Activism
-
-🏛️ [「 Step By Step 」](step_by_step.md)
 
 👁️[「 Vision of Defence 」](vision_of_defence.md)
 
