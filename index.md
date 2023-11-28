@@ -108,8 +108,6 @@
 
 📖 [Critical Authority](criticism.md)
 
-🏃 [Independent Speed](acceleration.md)
-
 🃏 [Reality Control](reality_control.md)
 
 🖥️ [Sixth Seal](sixth_seal.md)
