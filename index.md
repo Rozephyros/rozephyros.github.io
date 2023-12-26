@@ -1,4 +1,4 @@
-# 📁 𝕽𝖔𝖟𝖊𝖕𝖍𝖞𝖗𝖔𝖘
+# 📁 𝕳𝖊𝖗𝖎𝖙𝖆𝖌𝖊 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
 <p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## ⚔️ Activism
