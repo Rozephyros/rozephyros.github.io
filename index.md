@@ -2,7 +2,7 @@
 <p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## 🌍 𝕲𝖊𝖔𝖕𝖔𝖑𝖎𝖙𝖎𝖈𝖘
-🌍 [𝕰𝖓𝖙𝖗𝖔𝖕𝖎𝖈 𝕾𝖙𝖗𝖚𝖌𝖌𝖑𝖊](general/geopolitics/entropic/struggle/english.md)
+🌍 [𝕰𝖓𝖙𝖗𝖔𝖕𝖎𝖈 𝕾𝖙𝖗𝖚𝖌𝖌𝖑𝖊](general/geopolitics/entropic_struggle/english.md)
 
 ***
 
