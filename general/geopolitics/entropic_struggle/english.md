@@ -2,7 +2,7 @@
 
 ![Entropic Struggle](image.png)
 
-#### <i>“History is an inexorable master. It has no present, only the past rushing into the future. To try to hold on is to be swept away.”</i>
+#### <i>“History is a relentless master. It has no present, only the past rushing into the future. To try to hold fast is to be swept aside.”</i>
 
 <p align="justify">The cause of the catastrophic world wars lay not in the limitations of capital and production, but in the structure of the political institutions of the time. The early and mid-twentieth century was marked by extraordinary opportunities for economic development due to the unstoppable march of technological progress.</p>
 
