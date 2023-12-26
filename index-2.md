@@ -4,6 +4,9 @@
 ## 🌍 Геополитика
 🌍 [Энтропийная Борьба](general/geopolitics/entropic_struggle/russian.md)
 
+## 🧠 Интеллект
+🧠 [Ценность Пустоты](general/intelligence/the_value_of_emptiness/russian.md)
+
 ***
 
 ##### 🗽 [English Version](index.md)
