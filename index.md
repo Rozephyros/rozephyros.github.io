@@ -2,6 +2,7 @@
 <p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## 💣 𝕮𝖆𝖙𝖆𝖘𝖙𝖗𝖔𝖕𝖍𝖎𝖈𝖆𝖑
+🌌 [𝕿𝖍𝖊 𝕳𝖊𝖈𝖆𝖙𝖔𝖒𝖇](catastrophical/the_hecatomb/english.md)
 
 ## 🌍 𝕲𝖊𝖔𝖕𝖔𝖑𝖎𝖙𝖎𝖈𝖘
 🌍 [𝕰𝖓𝖙𝖗𝖔𝖕𝖎𝖈 𝕾𝖙𝖗𝖚𝖌𝖌𝖑𝖊](general/geopolitics/entropic_struggle/english.md)
