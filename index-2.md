@@ -11,7 +11,7 @@
 🧠 [Ценность Пустоты](general/intelligence/the_value_of_emptiness/russian.md)
 
 ## 💣 Катастрофы
-💣 [Гекатомба](catastrophical/the_hecatomb/english.md)
+💣 [Гекатомба](catastrophical/the_hecatomb/russian.md)
 
 ***
 
