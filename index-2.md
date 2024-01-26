@@ -4,6 +4,9 @@
 ## 🌌 Вселенная
 🌌 [Глубина Существования](universal/depth_of_existence/russian.md)
 
+## 🌟 Возвышение
+🌟 [Сверхпустота Эридана](ascension/eridanus_supervoid/russian.md)
+
 ## 💣 Катастрофы
 💣 [Гекатомба](catastrophical/the_hecatomb/russian.md)
 
