@@ -1,6 +1,9 @@
 # 📁 𝕳𝖊𝖗𝖎𝖙𝖆𝖌𝖊 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
 <p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
 
+## 🌟 𝕬𝖘𝖈𝖊𝖓𝖘𝖎𝖔𝖓
+🌟 [𝕰𝖗𝖎𝖉𝖆𝖓𝖚𝖘 𝕾𝖚𝖕𝖊𝖗𝖛𝖔𝖎𝖉](ascension/eridanus_supervoid/english.md)
+
 ## 💣 𝕮𝖆𝖙𝖆𝖘𝖙𝖗𝖔𝖕𝖍𝖎𝖈𝖆𝖑
 💣 [𝕿𝖍𝖊 𝕳𝖊𝖈𝖆𝖙𝖔𝖒𝖇](catastrophical/the_hecatomb/english.md)
 
