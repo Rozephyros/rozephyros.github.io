@@ -6,7 +6,9 @@
 
 ## 🌟 Возвышение
 🌟 [Крылья Зефира](ascension/the_wings_of_zephyr/russian.md)
+
 🌟 [Обнимая Пламя](ascension/embracing_the_flame/russian.md)
+
 🌟 [Сверхпустота Эридана](ascension/eridanus_supervoid/russian.md)
 
 ## 💣 Катастрофы
