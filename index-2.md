@@ -10,6 +10,9 @@
 ## 💣 Катастрофы
 💣 [Гекатомба](catastrophical/the_hecatomb/russian.md)
 
+## 🌱 Потенциал
+🌱 [Триумф Свободы](potential/the_triumph_of_freedom/english.md)
+
 ## 🌪️ Турбулентность
 🌪️ [Энтропийная Борьба](turbulence/entropic_struggle/russian.md)
 
