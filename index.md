@@ -12,7 +12,10 @@
 💣 [𝕿𝖍𝖊 𝕳𝖊𝖈𝖆𝖙𝖔𝖒𝖇](catastrophical/the_hecatomb/english.md)
 
 ## 🔮 𝕰𝖘𝖔𝖙𝖊𝖗𝖎𝖈𝖆𝖑
+🔮 [𝕭𝖊𝖞𝖔𝖓𝖉 𝕿𝖍𝖊 𝖁𝖊𝖎𝖑](esoterical/beyond_the_veil/english.md)
+
 🔮 [𝕿𝖍𝖊 𝖁𝖆𝖑𝖚𝖊 𝖔𝖋 𝕰𝖒𝖕𝖙𝖎𝖓𝖊𝖘𝖘](esoterical/the_value_of_emptiness/english.md)
+
 
 ## 🌱 𝕻𝖔𝖙𝖊𝖓𝖙𝖎𝖆𝖑
 🌱 [𝕿𝖍𝖊 𝕿𝖗𝖎𝖚𝖒𝖕𝖍 𝖔𝖋 𝕱𝖗𝖊𝖊𝖉𝖔𝖒](potential/the_triumph_of_freedom/english.md)
