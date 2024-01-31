@@ -21,6 +21,8 @@
 🌪️ [Энтропийная Борьба](turbulence/entropic_struggle/russian.md)
 
 ## 🔮 Эзотерика
+🔮 [За Вуалью](esoterical/beyond_the_veil/russian.md)
+
 🔮 [Ценность Пустоты](esoterical/the_value_of_emptiness/russian.md)
 
 ***
