@@ -2,7 +2,9 @@
 <p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## 🌟 𝕬𝖘𝖈𝖊𝖓𝖘𝖎𝖔𝖓
+🌟 [𝕰𝖒𝖇𝖗𝖆𝖈𝖎𝖓𝖌 𝕿𝖍𝖊 𝕱𝖑𝖆𝖒𝖊](ascension/embracing_the_flame/english.md)
 🌟 [𝕰𝖗𝖎𝖉𝖆𝖓𝖚𝖘 𝕾𝖚𝖕𝖊𝖗𝖛𝖔𝖎𝖉](ascension/eridanus_supervoid/english.md)
+🌟 [𝕿𝖍𝖊 𝖂𝖎𝖓𝖌𝖘 𝖔𝖋 𝖅𝖊𝖕𝖍𝖞𝖗](ascension/the_wings_of_zephyr/english.md)
 
 ## 💣 𝕮𝖆𝖙𝖆𝖘𝖙𝖗𝖔𝖕𝖍𝖎𝖈𝖆𝖑
 💣 [𝕿𝖍𝖊 𝕳𝖊𝖈𝖆𝖙𝖔𝖒𝖇](catastrophical/the_hecatomb/english.md)
