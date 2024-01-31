@@ -1,6 +1,6 @@
 # 🌱 𝕿𝖍𝖊 𝕿𝖗𝖎𝖚𝖒𝖕𝖍 𝖔𝖋 𝕱𝖗𝖊𝖊𝖉𝖔𝖒
 
-![Trust Deficit](image.png)
+![The Triumph of Freedom](image.png)
 
 <p align="justify">The existence of the state is the result of the unity of society. The basis of any power lies in the public recognition it receives. However, when power relies solely on violence and coercion, the illusion of unity is destroyed. On the other hand, divisions in society allow for the diversification of power, serving as a counterweight to the state. Conflicts serve as a defense against tyranny by restraining power. Instead of competition between states, conflict arises within society itself. The use of force forces us to recognize the injustice of those in power, which weakens the state and undermines its legitimacy.</p>
 
