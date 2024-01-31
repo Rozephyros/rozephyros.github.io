@@ -1,0 +1,16 @@
+# 🌟 𝕿𝖍𝖊 𝖂𝖎𝖓𝖌𝖘 𝖔𝖋 𝖅𝖊𝖕𝖍𝖞𝖗
+<p align="justify">Zephyrianism is an ideology based on the principles of happiness, self-actualization and development, rationalism, knowledge and experimentation. Its core values include the establishment of a voluntary and consensual order, the defense of the right to dissent, and a strong emphasis on pacifism. The philosophy of Zephyrianism seeks to create a society that provides equal opportunity for human autonomy and rejects the imposition of political or religious dogma.</p>
+
+<p align="justify">At the heart of Zephyrianism is a commitment to innovative research and a bold approach to intellectual pursuits. Zephyrians promote a love of intellectual stimulation and the pursuit of knowledge, encouraging people to question established wisdom, challenge existing paradigms, and explore alternative perspectives. They believe that inspiration plays a critical role in initiating positive change and advocate seeking inspiration from a wide variety of sources to gain new perspectives and ideas that promote personal growth and societal improvement.</p>
+
+<p align="justify">Zephyrianism has chosen as its emblem an angel rising out of chaos to symbolize self-transformation and a change in perspective. Zephyrians actively engage with the world, seeking a diversity of experiences and perspectives and recognizing the interconnectedness of all things in the universe. They value tolerance of other philosophies and emphasize the importance of respect for different beliefs.</p>
+
+<p align="justify">Pragmatism is another important aspect of Zephyrianism, emphasizing the practical application of ideas and theories. Zephyrians encourage people to use their intellectual pursuits to make positive changes in the world, prioritizing action and impact on the real world. They reject the idea of absolutes and instead embrace the concept of inspiration stemming from infinite regress, realizing that the only constant in life is change and that there are no inherently right or wrong answers. Morality and immorality are considered subjective and context-dependent.</p>
+
+<p align="justify">Zephyrianism emphasizes the shared responsibility of all people to create a better world. It encourages continual personal growth and a heightened sense of responsibility. Zephyrians strive to ask questions, conduct research, and make a tangible impact on the world around them through the pursuit of knowledge and the application of innovative ideas.</p>
+
+<p align="justify">Zephyrianism is an ideology that values the happiness of self-actualization and encourages the rationality of knowledge and experimentation. It advocates a voluntary and consensual order, emphasizes pacifism, and rejects political or religious dogma. Zephyrians recognize the power of inspiration symbolized by the phoenix and encourage tolerance, intellectual curiosity, and the application of ideas for positive change. They reject absolutes, recognize the subjective nature of morality, and emphasize personal growth, action, and the interconnectedness of all things in the pursuit of a better world.</p>
+
+***
+
+##### ↩️ [Back](https://rozephyros.github.io/index-2.html) | 🌻 [Русская Версия](russian.md)
