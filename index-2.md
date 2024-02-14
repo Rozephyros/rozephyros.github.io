@@ -4,6 +4,9 @@
 ## 🌌 Вселенная
 🌌 [Глубина Существования](universal/depth_of_existence/russian.md)
 
+## 🌀 Вечность
+🌀 [Вечная Спираль](eternal/eternal_spiral/russian.md)
+
 ## 🌟 Возвышение
 🌟 [Крылья Зефира](ascension/the_wings_of_zephyr/russian.md)
 
