@@ -20,6 +20,9 @@
 ## 🌱 Потенциал
 🌱 [Триумф Свободы](potential/the_triumph_of_freedom/russian.md)
 
+## 📢 Пропаганда
+📢 [Опасности Пропаганды](propaganda/the_dangers_of_propaganda/russian.md)
+
 ## 🌪️ Турбулентность
 🌪️ [Энтропийная Борьба](turbulence/entropic_struggle/russian.md)
 
