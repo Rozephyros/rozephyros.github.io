@@ -1,4 +1,4 @@
-# 🌐 𝕿𝖍𝖊 𝕹𝖆𝖙𝖚𝖗𝖊 𝖔𝖋 𝕾𝖕𝖊𝖊𝖉 🌐
+# 🌐 𝕿𝖍𝖊 𝕹𝖆𝖙𝖚𝖗𝖊 𝖔𝖋 𝕾𝖕𝖊𝖊𝖉
 
 <p align="justify">When it comes to speed, comparing a person running at top speed to someone moving slower unambiguously indicates that the former is faster. However, this apparent understanding of speed does not mean that it is entirely subjective. In fact, the fundamental nature of speed exists independently of outside observers. Nevertheless, the assessment of speed is undoubtedly influenced by the subjective inclinations of those who observe it.</p>
 
