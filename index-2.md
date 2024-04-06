@@ -17,6 +17,9 @@
 ## 💣 Катастрофы
 💣 [Гекатомба](catastrophical/the_hecatomb/russian.md)
 
+## 🌐 Метафизика
+🌐 [Природа Скорости](metaphysical/the_nature_of_speed/russian.md)
+
 ## 🌱 Потенциал
 🌱 [Триумф Свободы](potential/the_triumph_of_freedom/russian.md)
 
