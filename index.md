@@ -20,7 +20,7 @@
 🌀 [𝕰𝖙𝖊𝖗𝖓𝖆𝖑 𝕾𝖕𝖎𝖗𝖆𝖑](eternal/eternal_spiral/english.md)
 
 ## 🌐 𝕸𝖊𝖙𝖆𝖕𝖍𝖞𝖘𝖎𝖈𝖆𝖑
-🌐 [𝕿𝖍𝖊 𝕹𝖆𝖙𝖚𝖗𝖊 𝖔𝖋 𝕾𝖕𝖊𝖊𝖉](metaphysical/the_nature_of_speed/russian.md)
+🌐 [𝕿𝖍𝖊 𝕹𝖆𝖙𝖚𝖗𝖊 𝖔𝖋 𝕾𝖕𝖊𝖊𝖉](metaphysical/the_nature_of_speed/english.md)
 
 ## 🌱 𝕻𝖔𝖙𝖊𝖓𝖙𝖎𝖆𝖑
 🌱 [𝕿𝖍𝖊 𝕿𝖗𝖎𝖚𝖒𝖕𝖍 𝖔𝖋 𝕱𝖗𝖊𝖊𝖉𝖔𝖒](potential/the_triumph_of_freedom/english.md)
