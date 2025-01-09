@@ -3,6 +3,7 @@
 
 ## 🌌 Вселенная
 🌌 [Глубина Существования](universal/depth_of_existence/russian.md)
+
 🌌 [Космический Выбор](universal/cosmic_choices/english.md)
 
 ## 🌀 Вечность
