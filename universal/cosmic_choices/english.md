@@ -8,7 +8,7 @@
 
 <p align="justify">Yet how does this compare to the Creator’s canvas? Imagine every decision you've ever made or will make, crystallized into your own unique universe. Against the cosmic tapestry of billions of galaxies, your reality would be infinitesimal — invisible not just to the naked eye, but to our most powerful microscopes. Your lifetime of choices would fit within a sphere merely 618 Planck units in radius, countless times smaller than a single quark.</p>
 
-<p align="justify">This number, 618, holds no mystical significance. It is simply the mathematical signature of human potential, calculated from the moment of our first breath. We are creators of universes so small they hide between atoms, yet each one contains the entire history of a human consciousness making its way through time.</p>
+<p align="justify">This number — 618 — holds no mystical significance. It is simply the mathematical signature of human potential, calculated from the moment of our first breath. We are creators of universes so small they hide between atoms, yet each one contains the entire history of a human consciousness making its way through time.</p>
 
 <p align="justify">In this light, every choice becomes an act of creation—modest perhaps, when measured against the cosmic scale, but profound in its implication that we too are makers of worlds, architects of reality, however microscopic our domain may be.</p>
 
