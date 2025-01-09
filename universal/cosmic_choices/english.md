@@ -2,7 +2,7 @@
 
 <p align="justify">Consider confidence: that peculiar fusion of faith and inspired madness that propels us forward. When we contemplate God, we attempt to grasp the ungraspable, to comprehend the architect of our cosmos. Our physical universe contains 10⁴³⁹⁷ possible states — a number so vast it defies comprehension, yet remarkably, still finite.</p>
 
-<p align="justify">But let us turn the mirror upon ourselves. What universe can a human create? The answer lies in the constellation of our choices. Every day, we stand at countless crossroads: each decision a binary star, each choice illuminating one path while darkening another. Whether momentous or mundane—virtue or vice, love or fear, even Coca-Cola or Pepsi—each selection bifurcates our potential reality.</p>
+<p align="justify">But let us turn the mirror upon ourselves. What universe can a human create? The answer lies in the constellation of our choices. Every day, we stand at countless crossroads: each decision a binary star, each choice illuminating one path while darkening another. Whether momentous or mundane—virtue or vice, love or fear, even Coca-Cola or Pepsi — each selection bifurcates our potential reality.</p>
 
 <p align="justify">The mathematics of human choice is staggering: 35,000 decisions per day, multiplied across 365 days, spanning an average lifetime of 70 years. This calculus of free will yields 10⁴⁴² possible states — our personal universe of potential.</p>
 
