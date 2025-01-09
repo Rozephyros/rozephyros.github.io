@@ -32,6 +32,7 @@
 🌪️ [𝕰𝖓𝖙𝖗𝖔𝖕𝖎𝖈 𝕾𝖙𝖗𝖚𝖌𝖌𝖑𝖊](turbulence/entropic_struggle/english.md)
 
 ## 🌌 𝖀𝖓𝖎𝖛𝖊𝖗𝖘𝖆𝖑
+🌌 [𝕮𝖔𝖘𝖒𝖎𝖈 𝕮𝖍𝖔𝖎𝖈𝖊𝖘](universal/cosmic_choices/english.md)
 🌌 [𝕯𝖊𝖕𝖙𝖍𝖘 𝖔𝖋 𝕰𝖝𝖎𝖘𝖙𝖊𝖓𝖈𝖊](universal/depth_of_existence/english.md)
 
 ***
