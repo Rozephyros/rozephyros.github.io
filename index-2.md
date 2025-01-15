@@ -4,7 +4,9 @@
 ## 🌌 Вселенная
 🌌 [Глубина Существования](universal/depth_of_existence/russian.md)
 
-🌌 [Космический Выбор](universal/cosmic_choices/english.md)
+🌌 [Космический Выбор](universal/cosmic_choices/russian.md)
+
+🌌 [Нити Утраты и Смысла](universal/the_threads_of_loss_and_meaning/russian.md)
 
 ## 🌀 Вечность
 🌀 [Вечная Спираль](eternal/eternal_spiral/russian.md)
