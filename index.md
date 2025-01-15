@@ -2,8 +2,6 @@
 <p align="justify">A repository of philosophical thoughts and spiritual abstractions.</p>
 
 ## 🌟 𝕬𝖘𝖈𝖊𝖓𝖘𝖎𝖔𝖓
-🌟 [𝕰𝖒𝖇𝖗𝖆𝖈𝖎𝖓𝖌 𝕿𝖍𝖊 𝕱𝖑𝖆𝖒𝖊](ascension/embracing_the_flame/english.md)
-
 🌟 [𝕰𝖗𝖎𝖉𝖆𝖓𝖚𝖘 𝕾𝖚𝖕𝖊𝖗𝖛𝖔𝖎𝖉](ascension/eridanus_supervoid/english.md)
 
 🌟 [𝕿𝖍𝖊 𝖂𝖎𝖓𝖌𝖘 𝖔𝖋 𝖅𝖊𝖕𝖍𝖞𝖗](ascension/the_wings_of_zephyr/english.md)
@@ -35,6 +33,8 @@
 🌌 [𝕮𝖔𝖘𝖒𝖎𝖈 𝕮𝖍𝖔𝖎𝖈𝖊𝖘](universal/cosmic_choices/english.md)
 
 🌌 [𝕯𝖊𝖕𝖙𝖍𝖘 𝖔𝖋 𝕰𝖝𝖎𝖘𝖙𝖊𝖓𝖈𝖊](universal/depth_of_existence/english.md)
+
+🌌 [𝕿𝖍𝖊 𝕿𝖍𝖗𝖊𝖆𝖉𝖘 𝖔𝖋 𝕷𝖔𝖘𝖘 𝖆𝖓𝖉 𝕸𝖊𝖆𝖓𝖎𝖓𝖌](universal/the_threads_of_loss_and_meaning/english.md)
 
 ***
 
