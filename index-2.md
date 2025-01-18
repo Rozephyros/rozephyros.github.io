@@ -18,6 +18,9 @@
 
 🌟 [Сверхпустота Эридана](ascension/eridanus_supervoid/russian.md)
 
+## 🌑 Забвение
+🌑 [Метафизика Небытия](oblivion/the_metaphysics_of_non-existence/english.md)
+
 ## 💣 Катастрофы
 💣 [Гекатомба](catastrophical/the_hecatomb/russian.md)
 
