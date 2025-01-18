@@ -24,6 +24,9 @@
 ## 🌐 Метафизика
 🌐 [Природа Скорости](metaphysical/the_nature_of_speed/russian.md)
 
+## 🕊️ Пацифизм
+🕊️ [Вечный Вопрос Перемен](pacifism/the_eternal_question_of_change/english.md)
+
 ## 🌱 Потенциал
 🌱 [Триумф Свободы](potential/the_triumph_of_freedom/russian.md)
 
